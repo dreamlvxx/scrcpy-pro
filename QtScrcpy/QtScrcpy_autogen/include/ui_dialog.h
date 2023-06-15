@@ -138,7 +138,7 @@ public:
         sizePolicy.setVerticalStretch(0);
         sizePolicy.setHeightForWidth(leftWidget->sizePolicy().hasHeightForWidth());
         leftWidget->setSizePolicy(sizePolicy);
-        leftWidget->setStyleSheet(QString::fromUtf8("background-color: rgb(226, 167, 148);"));
+        leftWidget->setStyleSheet(QString::fromUtf8("background-color: rgb(114, 159, 207);"));
         verticalLayout_5 = new QVBoxLayout(leftWidget);
         verticalLayout_5->setSpacing(6);
         verticalLayout_5->setContentsMargins(11, 11, 11, 11);
