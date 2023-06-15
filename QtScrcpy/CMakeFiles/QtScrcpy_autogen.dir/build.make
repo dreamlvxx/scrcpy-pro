@@ -53,10 +53,10 @@ RM = /home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy
+CMAKE_SOURCE_DIR = /data/workspace/scrcpy-1/scrcpy-pro
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy
+CMAKE_BINARY_DIR = /data/workspace/scrcpy-1/scrcpy-pro
 
 # Utility rule file for QtScrcpy_autogen.
 
@@ -67,8 +67,8 @@ include QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/compiler_depend.make
 include QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/progress.make
 
 QtScrcpy/CMakeFiles/QtScrcpy_autogen:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target QtScrcpy"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/bin/cmake -E cmake_autogen /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/AutogenInfo.json Release
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target QtScrcpy"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/bin/cmake -E cmake_autogen /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/AutogenInfo.json Debug
 
 QtScrcpy_autogen: QtScrcpy/CMakeFiles/QtScrcpy_autogen
 QtScrcpy_autogen: QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/build.make
@@ -79,10 +79,10 @@ QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/build: QtScrcpy_autogen
 .PHONY : QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/build
 
 QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/clean:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && $(CMAKE_COMMAND) -P CMakeFiles/QtScrcpy_autogen.dir/cmake_clean.cmake
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && $(CMAKE_COMMAND) -P CMakeFiles/QtScrcpy_autogen.dir/cmake_clean.cmake
 .PHONY : QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/clean
 
 QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/depend:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/DependInfo.cmake --color=$(COLOR)
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /data/workspace/scrcpy-1/scrcpy-pro /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy /data/workspace/scrcpy-1/scrcpy-pro /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/depend
 

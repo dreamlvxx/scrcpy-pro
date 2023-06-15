@@ -1,5 +1,5 @@
 QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o: \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/uibase/magneticwidget.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase/magneticwidget.cpp \
  /usr/include/stdc-predef.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QDebug \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qdebug.h \
@@ -66,15 +66,12 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
- /usr/include/x86_64-linux-gnu/bits/select2.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib.h \
  /usr/include/c++/9/bits/std_abs.h /usr/include/c++/9/bits/algorithmfwd.h \
  /usr/include/c++/9/bits/stl_heap.h /usr/include/c++/9/bits/stl_tempbuf.h \
  /usr/include/c++/9/bits/stl_construct.h /usr/include/c++/9/new \
@@ -110,8 +107,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o: \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qrefcount.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
  /usr/include/string.h /usr/include/strings.h \
- /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
- /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhashfunctions.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbytearray.h \
@@ -126,8 +121,7 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
- /usr/include/x86_64-linux-gnu/bits/wchar2.h /usr/include/c++/9/cstdint \
- /usr/include/c++/9/bits/allocator.h \
+ /usr/include/c++/9/cstdint /usr/include/c++/9/bits/allocator.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
  /usr/include/c++/9/ext/new_allocator.h \
  /usr/include/c++/9/bits/localefwd.h \
@@ -161,10 +155,9 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
- /usr/include/x86_64-linux-gnu/bits/stdio.h \
- /usr/include/x86_64-linux-gnu/bits/stdio2.h /usr/include/c++/9/cerrno \
- /usr/include/errno.h /usr/include/x86_64-linux-gnu/bits/errno.h \
- /usr/include/linux/errno.h /usr/include/x86_64-linux-gnu/asm/errno.h \
+ /usr/include/c++/9/cerrno /usr/include/errno.h \
+ /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/9/bits/functional_hash.h \
@@ -276,7 +269,7 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o: \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qpalette.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qbrush.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qsizepolicy.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/uibase/magneticwidget.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase/magneticwidget.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QPointer \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qpointer.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/QWidget \

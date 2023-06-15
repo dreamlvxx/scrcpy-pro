@@ -1,8 +1,8 @@
 QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o: \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/mocs_compilation.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/PZONOMFGYT/moc_audiooutput.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/PZONOMFGYT/../../audio/audiooutput.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/PZONOMFGYT/moc_audiooutput.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/PZONOMFGYT/../../audio/audiooutput.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QThread \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qthread.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qobject.h \
@@ -70,15 +70,12 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
- /usr/include/x86_64-linux-gnu/bits/select2.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib.h \
  /usr/include/c++/9/bits/std_abs.h /usr/include/c++/9/bits/algorithmfwd.h \
  /usr/include/c++/9/bits/stl_heap.h /usr/include/c++/9/bits/stl_tempbuf.h \
  /usr/include/c++/9/bits/stl_construct.h /usr/include/c++/9/new \
@@ -113,10 +110,7 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o: \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbytearray.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qrefcount.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
- /usr/include/string.h /usr/include/strings.h \
- /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
- /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
- /usr/include/c++/9/stdlib.h \
+ /usr/include/string.h /usr/include/strings.h /usr/include/c++/9/stdlib.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
  /usr/include/c++/9/string /usr/include/c++/9/bits/stringfwd.h \
  /usr/include/c++/9/bits/char_traits.h /usr/include/c++/9/bits/postypes.h \
@@ -126,8 +120,7 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
- /usr/include/x86_64-linux-gnu/bits/wchar2.h /usr/include/c++/9/cstdint \
- /usr/include/c++/9/bits/allocator.h \
+ /usr/include/c++/9/cstdint /usr/include/c++/9/bits/allocator.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
  /usr/include/c++/9/ext/new_allocator.h \
  /usr/include/c++/9/bits/localefwd.h \
@@ -161,10 +154,9 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
- /usr/include/x86_64-linux-gnu/bits/stdio.h \
- /usr/include/x86_64-linux-gnu/bits/stdio2.h /usr/include/c++/9/cerrno \
- /usr/include/errno.h /usr/include/x86_64-linux-gnu/bits/errno.h \
- /usr/include/linux/errno.h /usr/include/x86_64-linux-gnu/asm/errno.h \
+ /usr/include/c++/9/cerrno /usr/include/errno.h \
+ /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/9/bits/functional_hash.h \
@@ -252,11 +244,11 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o: \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qsharedpointer_impl.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QVector \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qvector.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/7WSARK52GL/moc_groupcontroller.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/7WSARK52GL/../../groupcontroller/groupcontroller.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/7WSARK52GL/moc_groupcontroller.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/7WSARK52GL/../../groupcontroller/groupcontroller.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QObject \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qobject.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/include/QtScrcpyCore.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/include/QtScrcpyCore.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/QMouseEvent \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qevent.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qtguiglobal.h \
@@ -279,11 +271,11 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o: \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qfiledevice.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qvector2d.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qtouchdevice.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/include/QtScrcpyCoreDef.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/include/QtScrcpyCoreDef.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QString \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/RZRAGMB46M/moc_qyuvopenglwidget.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/RZRAGMB46M/../../render/qyuvopenglwidget.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/RZRAGMB46M/moc_qyuvopenglwidget.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/RZRAGMB46M/../../render/qyuvopenglwidget.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/QOpenGLBuffer \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qopenglbuffer.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qopengl.h \
@@ -335,8 +327,8 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o: \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qfontinfo.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qsizepolicy.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qcursor.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/UYX5XTB5RZ/moc_dialog.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/UYX5XTB5RZ/../../ui/dialog.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/UYX5XTB5RZ/moc_dialog.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/UYX5XTB5RZ/../../ui/dialog.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/QWidget \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/QMessageBox \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qmessagebox.h \
@@ -371,18 +363,18 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o: \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QTimer \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qtimer.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbasictimer.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/include/adbprocess.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/audio/audiooutput.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/UYX5XTB5RZ/moc_toolform.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/UYX5XTB5RZ/../../ui/toolform.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/uibase/magneticwidget.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/UYX5XTB5RZ/moc_videoform.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/UYX5XTB5RZ/../../ui/videoform.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/B2KWJJ5A6K/moc_keepratiowidget.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/B2KWJJ5A6K/../../uibase/keepratiowidget.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/B2KWJJ5A6K/moc_magneticwidget.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/B2KWJJ5A6K/../../uibase/magneticwidget.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/KH43KSYMFX/moc_config.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/KH43KSYMFX/../../util/config.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/include/adbprocess.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/audio/audiooutput.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/UYX5XTB5RZ/moc_toolform.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/UYX5XTB5RZ/../../ui/toolform.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase/magneticwidget.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/UYX5XTB5RZ/moc_videoform.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/UYX5XTB5RZ/../../ui/videoform.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/B2KWJJ5A6K/moc_keepratiowidget.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/B2KWJJ5A6K/../../uibase/keepratiowidget.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/B2KWJJ5A6K/moc_magneticwidget.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/B2KWJJ5A6K/../../uibase/magneticwidget.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/KH43KSYMFX/moc_config.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/KH43KSYMFX/../../util/config.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QRect \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qrect.h

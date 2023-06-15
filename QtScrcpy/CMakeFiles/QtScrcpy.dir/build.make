@@ -53,10 +53,10 @@ RM = /home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy
+CMAKE_SOURCE_DIR = /data/workspace/scrcpy-1/scrcpy-pro
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy
+CMAKE_BINARY_DIR = /data/workspace/scrcpy-1/scrcpy-pro
 
 # Include any dependencies generated for this target.
 include QtScrcpy/CMakeFiles/QtScrcpy.dir/depend.make
@@ -97,218 +97,218 @@ QtScrcpy/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp: QtScrcpy/res/image/videoform/p
 QtScrcpy/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp: QtScrcpy/res/image/tray/logo.png
 QtScrcpy/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp: QtScrcpy/res/font/fontawesome-webfont.ttf
 QtScrcpy/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp: /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/bin/rcc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic RCC for res/res.qrc"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/bin/cmake -E cmake_autorcc /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/AutoRcc_res_PNK5WDWK6L_Info.json Release
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic RCC for res/res.qrc"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/bin/cmake -E cmake_autorcc /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/AutoRcc_res_PNK5WDWK6L_Info.json Debug
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/flags.make
 QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o: QtScrcpy/QtScrcpy_autogen/mocs_compilation.cpp
 QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o -MF CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o -MF CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/mocs_compilation.cpp
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/mocs_compilation.cpp > CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/mocs_compilation.cpp > CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.i
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/mocs_compilation.cpp -o CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/mocs_compilation.cpp -o CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.s
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/flags.make
 QtScrcpy/CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.o: QtScrcpy/fontawesome/iconhelper.cpp
 QtScrcpy/CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.o -MF CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.o.d -o CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/fontawesome/iconhelper.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.o -MF CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.o.d -o CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/fontawesome/iconhelper.cpp
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/fontawesome/iconhelper.cpp > CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/fontawesome/iconhelper.cpp > CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.i
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/fontawesome/iconhelper.cpp -o CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/fontawesome/iconhelper.cpp -o CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.s
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/flags.make
 QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.o: QtScrcpy/uibase/keepratiowidget.cpp
 QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.o -MF CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.o.d -o CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/uibase/keepratiowidget.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.o -MF CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.o.d -o CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase/keepratiowidget.cpp
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/uibase/keepratiowidget.cpp > CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase/keepratiowidget.cpp > CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.i
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/uibase/keepratiowidget.cpp -o CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase/keepratiowidget.cpp -o CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.s
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/flags.make
 QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o: QtScrcpy/uibase/magneticwidget.cpp
 QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o -MF CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o.d -o CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/uibase/magneticwidget.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o -MF CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o.d -o CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase/magneticwidget.cpp
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/uibase/magneticwidget.cpp > CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase/magneticwidget.cpp > CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.i
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/uibase/magneticwidget.cpp -o CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase/magneticwidget.cpp -o CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.s
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/flags.make
 QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.o: QtScrcpy/ui/toolform.cpp
 QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.o -MF CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.o.d -o CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/toolform.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.o -MF CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.o.d -o CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/toolform.cpp
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/toolform.cpp > CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/toolform.cpp > CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.i
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/toolform.cpp -o CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/toolform.cpp -o CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.s
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/flags.make
 QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.o: QtScrcpy/ui/videoform.cpp
 QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.o -MF CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.o.d -o CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/videoform.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.o -MF CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.o.d -o CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/videoform.cpp
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/videoform.cpp > CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/videoform.cpp > CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.i
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/videoform.cpp -o CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/videoform.cpp -o CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.s
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/flags.make
 QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o: QtScrcpy/ui/dialog.cpp
 QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o -MF CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o.d -o CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/dialog.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o -MF CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o.d -o CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/dialog.cpp
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/dialog.cpp > CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/dialog.cpp > CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.i
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/dialog.cpp -o CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/dialog.cpp -o CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.s
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/flags.make
 QtScrcpy/CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.o: QtScrcpy/render/qyuvopenglwidget.cpp
 QtScrcpy/CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.o -MF CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.o.d -o CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/render/qyuvopenglwidget.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.o -MF CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.o.d -o CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/render/qyuvopenglwidget.cpp
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/render/qyuvopenglwidget.cpp > CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/render/qyuvopenglwidget.cpp > CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.i
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/render/qyuvopenglwidget.cpp -o CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/render/qyuvopenglwidget.cpp -o CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.s
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/util/config.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/flags.make
 QtScrcpy/CMakeFiles/QtScrcpy.dir/util/config.cpp.o: QtScrcpy/util/config.cpp
 QtScrcpy/CMakeFiles/QtScrcpy.dir/util/config.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/util/config.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/util/config.cpp.o -MF CMakeFiles/QtScrcpy.dir/util/config.cpp.o.d -o CMakeFiles/QtScrcpy.dir/util/config.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/config.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/util/config.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/util/config.cpp.o -MF CMakeFiles/QtScrcpy.dir/util/config.cpp.o.d -o CMakeFiles/QtScrcpy.dir/util/config.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/config.cpp
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/util/config.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpy.dir/util/config.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/config.cpp > CMakeFiles/QtScrcpy.dir/util/config.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/config.cpp > CMakeFiles/QtScrcpy.dir/util/config.cpp.i
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/util/config.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpy.dir/util/config.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/config.cpp -o CMakeFiles/QtScrcpy.dir/util/config.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/config.cpp -o CMakeFiles/QtScrcpy.dir/util/config.cpp.s
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/flags.make
 QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.o: QtScrcpy/util/mousetap/mousetap.cpp
 QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.o -MF CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.o.d -o CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/mousetap/mousetap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.o -MF CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.o.d -o CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/mousetap/mousetap.cpp
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/mousetap/mousetap.cpp > CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/mousetap/mousetap.cpp > CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.i
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/mousetap/mousetap.cpp -o CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/mousetap/mousetap.cpp -o CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.s
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/flags.make
 QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.o: QtScrcpy/util/mousetap/xmousetap.cpp
 QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.o -MF CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.o.d -o CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/mousetap/xmousetap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.o -MF CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.o.d -o CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/mousetap/xmousetap.cpp
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/mousetap/xmousetap.cpp > CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/mousetap/xmousetap.cpp > CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.i
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/mousetap/xmousetap.cpp -o CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/mousetap/xmousetap.cpp -o CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.s
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/main.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/flags.make
 QtScrcpy/CMakeFiles/QtScrcpy.dir/main.cpp.o: QtScrcpy/main.cpp
 QtScrcpy/CMakeFiles/QtScrcpy.dir/main.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/main.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/main.cpp.o -MF CMakeFiles/QtScrcpy.dir/main.cpp.o.d -o CMakeFiles/QtScrcpy.dir/main.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/main.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/main.cpp.o -MF CMakeFiles/QtScrcpy.dir/main.cpp.o.d -o CMakeFiles/QtScrcpy.dir/main.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/main.cpp
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpy.dir/main.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/main.cpp > CMakeFiles/QtScrcpy.dir/main.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/main.cpp > CMakeFiles/QtScrcpy.dir/main.cpp.i
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpy.dir/main.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/main.cpp -o CMakeFiles/QtScrcpy.dir/main.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/main.cpp -o CMakeFiles/QtScrcpy.dir/main.cpp.s
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/flags.make
 QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o: QtScrcpy/groupcontroller/groupcontroller.cpp
 QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o -MF CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o.d -o CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/groupcontroller/groupcontroller.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o -MF CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o.d -o CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/groupcontroller/groupcontroller.cpp
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/groupcontroller/groupcontroller.cpp > CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/groupcontroller/groupcontroller.cpp > CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.i
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/groupcontroller/groupcontroller.cpp -o CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/groupcontroller/groupcontroller.cpp -o CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.s
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/flags.make
 QtScrcpy/CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.o: QtScrcpy/audio/audiooutput.cpp
 QtScrcpy/CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.o -MF CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.o.d -o CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/audio/audiooutput.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.o -MF CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.o.d -o CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/audio/audiooutput.cpp
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/audio/audiooutput.cpp > CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/audio/audiooutput.cpp > CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.i
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/audio/audiooutput.cpp -o CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/audio/audiooutput.cpp -o CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.s
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/flags.make
 QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.o: QtScrcpy/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp
 QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.o: QtScrcpy/CMakeFiles/QtScrcpy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.o -MF CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.o.d -o CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.o -MF CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.o.d -o CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp > CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp > CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.i
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp -o CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp -o CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.s
 
 # Object files for target QtScrcpy
 QtScrcpy_OBJECTS = \
@@ -331,44 +331,44 @@ QtScrcpy_OBJECTS = \
 # External object files for target QtScrcpy
 QtScrcpy_EXTERNAL_OBJECTS =
 
-output/x64/Release/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o
-output/x64/Release/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.o
-output/x64/Release/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.o
-output/x64/Release/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o
-output/x64/Release/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.o
-output/x64/Release/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.o
-output/x64/Release/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o
-output/x64/Release/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.o
-output/x64/Release/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/util/config.cpp.o
-output/x64/Release/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.o
-output/x64/Release/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.o
-output/x64/Release/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/main.cpp.o
-output/x64/Release/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o
-output/x64/Release/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.o
-output/x64/Release/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.o
-output/x64/Release/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/build.make
-output/x64/Release/QtScrcpy: /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/libQt5X11Extras.so.5.12.8
-output/x64/Release/QtScrcpy: /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/libQt5Multimedia.so.5.12.8
-output/x64/Release/QtScrcpy: output/x64/Release/libQtScrcpyCore.a
-output/x64/Release/QtScrcpy: /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/libQt5Widgets.so.5.12.8
-output/x64/Release/QtScrcpy: /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/libQt5Gui.so.5.12.8
-output/x64/Release/QtScrcpy: /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/libQt5Network.so.5.12.8
-output/x64/Release/QtScrcpy: /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/libQt5Core.so.5.12.8
-output/x64/Release/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable ../output/x64/Release/QtScrcpy"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/QtScrcpy.dir/link.txt --verbose=$(VERBOSE)
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/bin/cmake -E copy_if_different /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/sndcpy/sndcpy.sh /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/../output/x64/Release/
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && /home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/bin/cmake -E copy_if_different /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/sndcpy/sndcpy.apk /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/../output/x64/Release/
+output/x64/Debug/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o
+output/x64/Debug/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.o
+output/x64/Debug/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.o
+output/x64/Debug/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o
+output/x64/Debug/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.o
+output/x64/Debug/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.o
+output/x64/Debug/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o
+output/x64/Debug/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.o
+output/x64/Debug/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/util/config.cpp.o
+output/x64/Debug/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.o
+output/x64/Debug/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.o
+output/x64/Debug/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/main.cpp.o
+output/x64/Debug/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o
+output/x64/Debug/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.o
+output/x64/Debug/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.o
+output/x64/Debug/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/build.make
+output/x64/Debug/QtScrcpy: /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/libQt5X11Extras.so.5.12.8
+output/x64/Debug/QtScrcpy: /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/libQt5Multimedia.so.5.12.8
+output/x64/Debug/QtScrcpy: output/x64/Debug/libQtScrcpyCore.a
+output/x64/Debug/QtScrcpy: /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/libQt5Widgets.so.5.12.8
+output/x64/Debug/QtScrcpy: /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/libQt5Gui.so.5.12.8
+output/x64/Debug/QtScrcpy: /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/libQt5Network.so.5.12.8
+output/x64/Debug/QtScrcpy: /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/libQt5Core.so.5.12.8
+output/x64/Debug/QtScrcpy: QtScrcpy/CMakeFiles/QtScrcpy.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable ../output/x64/Debug/QtScrcpy"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/QtScrcpy.dir/link.txt --verbose=$(VERBOSE)
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/bin/cmake -E copy_if_different /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/sndcpy/sndcpy.sh /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/../output/x64/Debug/
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && /home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/bin/cmake -E copy_if_different /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/sndcpy/sndcpy.apk /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/../output/x64/Debug/
 
 # Rule to build all files generated by this target.
-QtScrcpy/CMakeFiles/QtScrcpy.dir/build: output/x64/Release/QtScrcpy
+QtScrcpy/CMakeFiles/QtScrcpy.dir/build: output/x64/Debug/QtScrcpy
 .PHONY : QtScrcpy/CMakeFiles/QtScrcpy.dir/build
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/clean:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy && $(CMAKE_COMMAND) -P CMakeFiles/QtScrcpy.dir/cmake_clean.cmake
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy && $(CMAKE_COMMAND) -P CMakeFiles/QtScrcpy.dir/cmake_clean.cmake
 .PHONY : QtScrcpy/CMakeFiles/QtScrcpy.dir/clean
 
 QtScrcpy/CMakeFiles/QtScrcpy.dir/depend: QtScrcpy/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/CMakeFiles/QtScrcpy.dir/DependInfo.cmake --color=$(COLOR)
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /data/workspace/scrcpy-1/scrcpy-pro /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy /data/workspace/scrcpy-1/scrcpy-pro /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/CMakeFiles/QtScrcpy.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : QtScrcpy/CMakeFiles/QtScrcpy.dir/depend
 

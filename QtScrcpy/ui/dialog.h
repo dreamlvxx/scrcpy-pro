@@ -17,6 +17,8 @@
 namespace Ui
 {
     class Widget;
+
+
 }
 
 class QYUVOpenGLWidget;

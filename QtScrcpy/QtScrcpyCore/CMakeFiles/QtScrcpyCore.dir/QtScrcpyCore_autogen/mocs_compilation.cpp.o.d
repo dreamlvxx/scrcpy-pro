@@ -1,8 +1,8 @@
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.o: \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/mocs_compilation.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/6YEA5652QU/moc_QtScrcpyCore.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/6YEA5652QU/../../include/QtScrcpyCore.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/6YEA5652QU/moc_QtScrcpyCore.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/6YEA5652QU/../../include/QtScrcpyCore.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/QMouseEvent \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qevent.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qtguiglobal.h \
@@ -68,15 +68,12 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_comp
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
- /usr/include/x86_64-linux-gnu/bits/select2.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib.h \
  /usr/include/c++/9/bits/std_abs.h /usr/include/c++/9/bits/algorithmfwd.h \
  /usr/include/c++/9/bits/stl_heap.h /usr/include/c++/9/bits/stl_tempbuf.h \
  /usr/include/c++/9/bits/stl_construct.h /usr/include/c++/9/new \
@@ -126,8 +123,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_comp
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qrefcount.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
  /usr/include/string.h /usr/include/strings.h \
- /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
- /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
  /usr/include/c++/9/string /usr/include/c++/9/bits/stringfwd.h \
  /usr/include/c++/9/bits/char_traits.h /usr/include/c++/9/bits/postypes.h \
@@ -137,8 +132,7 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_comp
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
- /usr/include/x86_64-linux-gnu/bits/wchar2.h /usr/include/c++/9/cstdint \
- /usr/include/c++/9/bits/allocator.h \
+ /usr/include/c++/9/cstdint /usr/include/c++/9/bits/allocator.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
  /usr/include/c++/9/ext/new_allocator.h \
  /usr/include/c++/9/bits/localefwd.h \
@@ -172,10 +166,9 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_comp
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
- /usr/include/x86_64-linux-gnu/bits/stdio.h \
- /usr/include/x86_64-linux-gnu/bits/stdio2.h /usr/include/c++/9/cerrno \
- /usr/include/errno.h /usr/include/x86_64-linux-gnu/bits/errno.h \
- /usr/include/linux/errno.h /usr/include/x86_64-linux-gnu/asm/errno.h \
+ /usr/include/c++/9/cerrno /usr/include/errno.h \
+ /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/9/bits/functional_hash.h \
@@ -251,49 +244,49 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_comp
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qfiledevice.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qvector2d.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qtouchdevice.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/6YEA5652QU/../../include/QtScrcpyCoreDef.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/6YEA5652QU/../../include/QtScrcpyCoreDef.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QString \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/6YEA5652QU/moc_adbprocess.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/6YEA5652QU/../../include/adbprocess.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/6YEA5652QU/moc_adbprocess.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/6YEA5652QU/../../include/adbprocess.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QObject \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qobject.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/QBQSNTONFS/moc_adbprocessimpl.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/QBQSNTONFS/../../src/adb/adbprocessimpl.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/QBQSNTONFS/moc_adbprocessimpl.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/QBQSNTONFS/../../src/adb/adbprocessimpl.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QProcess \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qprocess.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qshareddata.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/include/adbprocess.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/VGKDREYSTA/moc_controller.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/VGKDREYSTA/../../src/device/controller/controller.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/include/adbprocess.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/VGKDREYSTA/moc_controller.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/VGKDREYSTA/../../src/device/controller/controller.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QPointer \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qpointer.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qsharedpointer.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qsharedpointer_impl.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertbase.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertbase.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/QKeyEvent \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/QWheelEvent \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/controlmsg.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/controlmsg.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QBuffer \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbuffer.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QRect \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qrect.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/android/input.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/android/keycodes.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/common/qscrcpyevent.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/android/input.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/android/keycodes.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/common/qscrcpyevent.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QEvent \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qcoreevent.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/FIT7WCBYQG/moc_inputconvertbase.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/FIT7WCBYQG/../../src/device/controller/inputconvert/inputconvertbase.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/FIT7WCBYQG/moc_inputconvertgame.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/FIT7WCBYQG/../../src/device/controller/inputconvert/inputconvertgame.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/FIT7WCBYQG/moc_inputconvertbase.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/FIT7WCBYQG/../../src/device/controller/inputconvert/inputconvertbase.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/FIT7WCBYQG/moc_inputconvertgame.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/FIT7WCBYQG/../../src/device/controller/inputconvert/inputconvertgame.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QPointF \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qpoint.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QQueue \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qqueue.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/FIT7WCBYQG/../../src/device/controller/inputconvert/inputconvertnormal.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/FIT7WCBYQG/../../src/device/controller/inputconvert/inputconvertbase.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/keymap/keymap.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/FIT7WCBYQG/../../src/device/controller/inputconvert/inputconvertnormal.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/FIT7WCBYQG/../../src/device/controller/inputconvert/inputconvertbase.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/keymap/keymap.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QJsonObject \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qjsonobject.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qjsonvalue.h \
@@ -306,20 +299,20 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_comp
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QRectF \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QVector \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qvector.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/FIT7WCBYQG/moc_inputconvertnormal.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/FIT7WCBYQG/../../src/device/controller/inputconvert/inputconvertnormal.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/F2Z3URE5CP/moc_keymap.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/F2Z3URE5CP/../../src/device/controller/inputconvert/keymap/keymap.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/E5IYPM23Q7/moc_devicemsg.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/E5IYPM23Q7/../../src/device/controller/receiver/devicemsg.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/E5IYPM23Q7/moc_receiver.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/E5IYPM23Q7/../../src/device/controller/receiver/receiver.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/TZCQTYOKL3/moc_decoder.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/TZCQTYOKL3/../../src/device/decoder/decoder.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/avcodec.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/samplefmt.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/avutil.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/common.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/FIT7WCBYQG/moc_inputconvertnormal.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/FIT7WCBYQG/../../src/device/controller/inputconvert/inputconvertnormal.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/F2Z3URE5CP/moc_keymap.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/F2Z3URE5CP/../../src/device/controller/inputconvert/keymap/keymap.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/E5IYPM23Q7/moc_devicemsg.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/E5IYPM23Q7/../../src/device/controller/receiver/devicemsg.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/E5IYPM23Q7/moc_receiver.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/E5IYPM23Q7/../../src/device/controller/receiver/receiver.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/TZCQTYOKL3/moc_decoder.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/TZCQTYOKL3/../../src/device/decoder/decoder.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/avcodec.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/samplefmt.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/avutil.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/common.h \
  /usr/include/inttypes.h /usr/include/c++/9/math.h \
  /usr/include/c++/9/cmath /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
@@ -331,54 +324,53 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_comp
  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
  /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
  /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
- /usr/include/x86_64-linux-gnu/bits/mathinline.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/attributes.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/macros.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/version.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/avconfig.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/mem.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/error.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/rational.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/mathematics.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/intfloat.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/log.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/pixfmt.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/attributes.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/avutil.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/buffer.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/cpu.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/channel_layout.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/dict.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/frame.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/buffer.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/dict.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/samplefmt.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/hwcontext.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/frame.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/log.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/pixfmt.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/rational.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/bsf.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec_id.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec_par.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/packet.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/version.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/version.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec_id.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec_desc.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/version.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/TZCQTYOKL3/moc_fpscounter.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/TZCQTYOKL3/../../src/device/decoder/fpscounter.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/TZCQTYOKL3/moc_videobuffer.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/TZCQTYOKL3/../../src/device/decoder/videobuffer.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/attributes.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/macros.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/version.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/avconfig.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/mem.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/error.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/rational.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/mathematics.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/intfloat.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/log.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/pixfmt.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/attributes.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/avutil.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/buffer.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/cpu.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/channel_layout.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/dict.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/frame.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/buffer.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/dict.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/samplefmt.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/hwcontext.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/frame.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/log.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/pixfmt.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/rational.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/bsf.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec_id.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec_par.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/packet.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/version.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/version.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec_id.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec_desc.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/version.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/TZCQTYOKL3/moc_fpscounter.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/TZCQTYOKL3/../../src/device/decoder/fpscounter.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/TZCQTYOKL3/moc_videobuffer.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/TZCQTYOKL3/../../src/device/decoder/videobuffer.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QMutex \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qmutex.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QWaitCondition \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qwaitcondition.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/TZCQTYOKL3/../../src/device/decoder/fpscounter.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/XS5GD45QW7/moc_demuxer.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/XS5GD45QW7/../../src/device/demuxer/demuxer.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/TZCQTYOKL3/../../src/device/decoder/fpscounter.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/XS5GD45QW7/moc_demuxer.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/XS5GD45QW7/../../src/device/demuxer/demuxer.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QThread \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qthread.h \
  /usr/include/c++/9/future /usr/include/c++/9/mutex \
@@ -393,28 +385,28 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_comp
  /usr/include/c++/9/backward/auto_ptr.h \
  /usr/include/c++/9/condition_variable \
  /usr/include/c++/9/bits/atomic_futex.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavformat/avformat.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavformat/avio.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/common.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavformat/version.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/R27GN3UPJU/moc_device.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/R27GN3UPJU/../../src/device/device.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavformat/avformat.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavformat/avio.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/common.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavformat/version.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/R27GN3UPJU/moc_device.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/R27GN3UPJU/../../src/device/device.h \
  /usr/include/c++/9/set /usr/include/c++/9/bits/stl_set.h \
  /usr/include/c++/9/bits/stl_multiset.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QElapsedTimer \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qelapsedtimer.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QTime \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qdatetime.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/controlmsg.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/KQXXML3GD5/moc_filehandler.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/KQXXML3GD5/../../src/device/filehandler/filehandler.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/V6TAWOZAWB/moc_recorder.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/V6TAWOZAWB/../../src/device/recorder/recorder.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/controlmsg.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/KQXXML3GD5/moc_filehandler.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/KQXXML3GD5/../../src/device/filehandler/filehandler.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/V6TAWOZAWB/moc_recorder.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/V6TAWOZAWB/../../src/device/recorder/recorder.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QSize \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qsize.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/B4U5HBF4HE/moc_server.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/B4U5HBF4HE/../../src/device/server/server.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/B4U5HBF4HE/../../src/device/server/tcpserver.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/B4U5HBF4HE/moc_server.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/B4U5HBF4HE/../../src/device/server/server.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/B4U5HBF4HE/../../src/device/server/tcpserver.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtNetwork/QTcpServer \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtNetwork/qtcpserver.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtNetwork/qtnetworkglobal.h \
@@ -425,14 +417,14 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_comp
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qlocale.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qcontiguouscache.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtNetwork/qhostaddress.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/B4U5HBF4HE/../../src/device/server/videosocket.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/B4U5HBF4HE/../../src/device/server/videosocket.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtNetwork/QTcpSocket \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtNetwork/qtcpsocket.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/B4U5HBF4HE/moc_tcpserver.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/B4U5HBF4HE/../../src/device/server/tcpserver.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/B4U5HBF4HE/moc_videosocket.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/B4U5HBF4HE/../../src/device/server/videosocket.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/XA5EKVFPEJ/moc_devicemanage.cpp \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/XA5EKVFPEJ/../../src/devicemanage/devicemanage.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/B4U5HBF4HE/moc_tcpserver.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/B4U5HBF4HE/../../src/device/server/tcpserver.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/B4U5HBF4HE/moc_videosocket.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/B4U5HBF4HE/../../src/device/server/videosocket.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/XA5EKVFPEJ/moc_devicemanage.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/XA5EKVFPEJ/../../src/devicemanage/devicemanage.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QMap \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qmap.h

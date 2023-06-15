@@ -34,6 +34,9 @@
        <verstretch>0</verstretch>
       </sizepolicy>
      </property>
+     <property name="styleSheet">
+      <string notr="true">background-color: rgb(226, 167, 148);</string>
+     </property>
      <layout class="QVBoxLayout" name="verticalLayout_5">
       <item>
        <widget class="QCheckBox" name="useSingleModeCheck">
@@ -78,6 +81,9 @@
                <horstretch>0</horstretch>
                <verstretch>0</verstretch>
               </sizepolicy>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">color: rgb(0, 0, 0);</string>
              </property>
              <property name="text">
               <string>WIFI Connect</string>
@@ -275,6 +281,9 @@
        <horstretch>0</horstretch>
        <verstretch>0</verstretch>
       </sizepolicy>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-color: rgb(40, 123, 88);</string>
      </property>
      <layout class="QVBoxLayout" name="verticalLayout_6">
       <item>

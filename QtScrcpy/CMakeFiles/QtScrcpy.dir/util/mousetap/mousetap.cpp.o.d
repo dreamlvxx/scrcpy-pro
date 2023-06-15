@@ -1,5 +1,5 @@
 QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.o: \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/mousetap/mousetap.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/mousetap/mousetap.cpp \
  /usr/include/stdc-predef.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QtGlobal \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qglobal.h \
@@ -64,15 +64,12 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
- /usr/include/x86_64-linux-gnu/bits/select2.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib.h \
  /usr/include/c++/9/bits/std_abs.h /usr/include/c++/9/bits/algorithmfwd.h \
  /usr/include/c++/9/bits/stl_heap.h /usr/include/c++/9/bits/stl_tempbuf.h \
  /usr/include/c++/9/bits/stl_construct.h /usr/include/c++/9/new \
@@ -102,11 +99,11 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.o: \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qglobalstatic.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qnumeric.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qversiontagging.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/mousetap/mousetap.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/mousetap/mousetap.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QRect \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qrect.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qmargins.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qnamespace.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qsize.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qpoint.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/mousetap/xmousetap.h
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/mousetap/xmousetap.h

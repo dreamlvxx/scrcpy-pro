@@ -1,0 +1,65 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"QtScrcpy/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "QtScrcpyCore::@c48801e7481be239508f"
+		}
+	],
+	"id" : "QtScrcpy_autogen::@743859489188dff6d2b5",
+	"isGeneratorProvided" : true,
+	"name" : "QtScrcpy_autogen",
+	"paths" : 
+	{
+		"build" : "QtScrcpy",
+		"source" : "QtScrcpy"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "QtScrcpy/CMakeFiles/QtScrcpy_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "QtScrcpy/CMakeFiles/QtScrcpy_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

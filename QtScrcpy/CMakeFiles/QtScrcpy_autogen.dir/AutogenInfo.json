@@ -1,12 +1,12 @@
 {
-	"BUILD_DIR" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen",
-	"CMAKE_BINARY_DIR" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy",
+	"BUILD_DIR" : "/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen",
+	"CMAKE_BINARY_DIR" : "/data/workspace/scrcpy-1/scrcpy-pro",
+	"CMAKE_CURRENT_BINARY_DIR" : "/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy",
 	"CMAKE_EXECUTABLE" : "/home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/CMakeLists.txt",
+		"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/CMakeLists.txt",
 		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
 		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5/Qt5Config.cmake",
 		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
@@ -87,96 +87,95 @@
 		"/home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake",
 		"/home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake",
 		"/home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/share/cmake-3.26/Modules/FindPackageMessage.cmake",
-		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/res/res.qrc"
+		"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/res/res.qrc"
 	],
-	"CMAKE_SOURCE_DIR" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy",
+	"CMAKE_SOURCE_DIR" : "/data/workspace/scrcpy-1/scrcpy-pro",
 	"DEP_FILE" : "",
 	"DEP_FILE_RULE_NAME" : "",
 	"HEADERS" : 
 	[
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/audio/audiooutput.h",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/audio/audiooutput.h",
 			"MU",
 			"PZONOMFGYT/moc_audiooutput.cpp",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/fontawesome/iconhelper.h",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/fontawesome/iconhelper.h",
 			"MU",
 			"7653U4RL2C/moc_iconhelper.cpp",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/groupcontroller/groupcontroller.h",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/groupcontroller/groupcontroller.h",
 			"MU",
 			"7WSARK52GL/moc_groupcontroller.cpp",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/render/qyuvopenglwidget.h",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/render/qyuvopenglwidget.h",
 			"MU",
 			"RZRAGMB46M/moc_qyuvopenglwidget.cpp",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/dialog.h",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/dialog.h",
 			"MU",
 			"UYX5XTB5RZ/moc_dialog.cpp",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/toolform.h",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/toolform.h",
 			"MU",
 			"UYX5XTB5RZ/moc_toolform.cpp",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/videoform.h",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/videoform.h",
 			"MU",
 			"UYX5XTB5RZ/moc_videoform.cpp",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/uibase/keepratiowidget.h",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase/keepratiowidget.h",
 			"MU",
 			"B2KWJJ5A6K/moc_keepratiowidget.cpp",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/uibase/magneticwidget.h",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase/magneticwidget.h",
 			"MU",
 			"B2KWJJ5A6K/moc_magneticwidget.cpp",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/config.h",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/config.h",
 			"MU",
 			"KH43KSYMFX/moc_config.cpp",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/mousetap/mousetap.h",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/mousetap/mousetap.h",
 			"MU",
 			"A6WZYQ7OMG/moc_mousetap.cpp",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/mousetap/xmousetap.h",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/mousetap/xmousetap.h",
 			"MU",
 			"A6WZYQ7OMG/moc_xmousetap.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/include",
+	"MOC_COMPILATION_FILE" : "/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"QT_CORE_LIB",
 		"QT_GUI_LIB",
 		"QT_MULTIMEDIA_LIB",
 		"QT_NETWORK_LIB",
-		"QT_NO_DEBUG",
 		"QT_WIDGETS_LIB",
 		"QT_X11EXTRAS_LIB"
 	],
@@ -189,13 +188,13 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy",
-		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/fontawesome",
-		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util",
-		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/uibase",
-		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui",
-		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/render",
-		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/include",
+		"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy",
+		"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/fontawesome",
+		"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util",
+		"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase",
+		"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui",
+		"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/render",
+		"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/include",
 		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include",
 		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtX11Extras",
 		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui",
@@ -223,81 +222,77 @@
 		"-c",
 		"/home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 8,
-	"PARSE_CACHE_FILE" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/bin/moc",
 	"QT_UIC_EXECUTABLE" : "/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/bin/uic",
 	"QT_VERSION_MAJOR" : 5,
 	"QT_VERSION_MINOR" : 12,
-	"SETTINGS_FILE" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/audio/audiooutput.cpp",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/audio/audiooutput.cpp",
 			"MU",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/fontawesome/iconhelper.cpp",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/fontawesome/iconhelper.cpp",
 			"MU",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/groupcontroller/groupcontroller.cpp",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/groupcontroller/groupcontroller.cpp",
+			"MU",
+			null
+		],
+		[ "/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/main.cpp", "MU", null ],
+		[
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/render/qyuvopenglwidget.cpp",
 			"MU",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/main.cpp",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/dialog.cpp",
 			"MU",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/render/qyuvopenglwidget.cpp",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/toolform.cpp",
 			"MU",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/dialog.cpp",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/videoform.cpp",
 			"MU",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/toolform.cpp",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase/keepratiowidget.cpp",
 			"MU",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/videoform.cpp",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase/magneticwidget.cpp",
 			"MU",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/uibase/keepratiowidget.cpp",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/config.cpp",
 			"MU",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/uibase/magneticwidget.cpp",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/mousetap/mousetap.cpp",
 			"MU",
 			null
 		],
 		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/config.cpp",
-			"MU",
-			null
-		],
-		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/mousetap/mousetap.cpp",
-			"MU",
-			null
-		],
-		[
-			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/mousetap/xmousetap.cpp",
+			"/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/mousetap/xmousetap.cpp",
 			"MU",
 			null
 		]

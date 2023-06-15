@@ -1,5 +1,5 @@
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.o: \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/avframeconvert.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/avframeconvert.cpp \
  /usr/include/stdc-predef.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QDebug \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qdebug.h \
@@ -66,15 +66,12 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconv
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
- /usr/include/x86_64-linux-gnu/bits/select2.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib.h \
  /usr/include/c++/9/bits/std_abs.h /usr/include/c++/9/bits/algorithmfwd.h \
  /usr/include/c++/9/bits/stl_heap.h /usr/include/c++/9/bits/stl_tempbuf.h \
  /usr/include/c++/9/bits/stl_construct.h /usr/include/c++/9/new \
@@ -110,8 +107,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconv
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qrefcount.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
  /usr/include/string.h /usr/include/strings.h \
- /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
- /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhashfunctions.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbytearray.h \
@@ -126,8 +121,7 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconv
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
- /usr/include/x86_64-linux-gnu/bits/wchar2.h /usr/include/c++/9/cstdint \
- /usr/include/c++/9/bits/allocator.h \
+ /usr/include/c++/9/cstdint /usr/include/c++/9/bits/allocator.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
  /usr/include/c++/9/ext/new_allocator.h \
  /usr/include/c++/9/bits/localefwd.h \
@@ -161,10 +155,9 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconv
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
- /usr/include/x86_64-linux-gnu/bits/stdio.h \
- /usr/include/x86_64-linux-gnu/bits/stdio2.h /usr/include/c++/9/cerrno \
- /usr/include/errno.h /usr/include/x86_64-linux-gnu/bits/errno.h \
- /usr/include/linux/errno.h /usr/include/x86_64-linux-gnu/asm/errno.h \
+ /usr/include/c++/9/cerrno /usr/include/errno.h \
+ /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/9/bits/functional_hash.h \
@@ -238,13 +231,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconv
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qcontiguouscache.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qsharedpointer.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qsharedpointer_impl.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/avframeconvert.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/avframeconvert.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QtGlobal \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qglobal.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/avcodec.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/samplefmt.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/avutil.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/common.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/avcodec.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/samplefmt.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/avutil.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/common.h \
  /usr/include/inttypes.h /usr/include/c++/9/math.h \
  /usr/include/c++/9/cmath /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
@@ -256,42 +249,41 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconv
  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
  /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
  /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
- /usr/include/x86_64-linux-gnu/bits/mathinline.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/attributes.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/macros.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/version.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/avconfig.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/mem.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/error.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/rational.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/mathematics.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/intfloat.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/log.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/pixfmt.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/attributes.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/avutil.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/buffer.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/cpu.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/channel_layout.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/dict.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/frame.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/buffer.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/dict.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/samplefmt.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/hwcontext.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/frame.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/log.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/pixfmt.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/rational.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/bsf.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec_id.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec_par.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/packet.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/version.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/version.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec_id.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec_desc.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/version.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libswscale/swscale.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libswscale/version.h
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/attributes.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/macros.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/version.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/avconfig.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/mem.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/error.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/rational.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/mathematics.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/intfloat.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/log.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/pixfmt.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/attributes.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/avutil.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/buffer.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/cpu.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/channel_layout.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/dict.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/frame.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/buffer.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/dict.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/samplefmt.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/hwcontext.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/frame.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/log.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/pixfmt.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/rational.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/bsf.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec_id.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec_par.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/packet.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/version.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/version.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec_id.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec_desc.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/version.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libswscale/swscale.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libswscale/version.h

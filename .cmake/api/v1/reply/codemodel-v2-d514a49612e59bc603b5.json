@@ -1,0 +1,133 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "QtScrcpy",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-QtScrcpy-Debug-679cdcb0b5963b074574.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "QtScrcpy",
+					"targetIndexes" : 
+					[
+						0,
+						3
+					]
+				},
+				{
+					"build" : "QtScrcpy/QtScrcpyCore",
+					"jsonFile" : "directory-QtScrcpy.QtScrcpyCore-Debug-7b1d90a4a663836c1a5f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "QtScrcpy/QtScrcpyCore",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "all"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2
+					],
+					"name" : "QtScrcpy",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "QtScrcpy::@743859489188dff6d2b5",
+					"jsonFile" : "target-QtScrcpy-Debug-1b2eec637431cacd4c09.json",
+					"name" : "QtScrcpy",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "QtScrcpyCore::@c48801e7481be239508f",
+					"jsonFile" : "target-QtScrcpyCore-Debug-34a0aa9c98313e1c2d17.json",
+					"name" : "QtScrcpyCore",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "QtScrcpyCore_autogen::@c48801e7481be239508f",
+					"jsonFile" : "target-QtScrcpyCore_autogen-Debug-f1660842de6a20967bab.json",
+					"name" : "QtScrcpyCore_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QtScrcpy_autogen::@743859489188dff6d2b5",
+					"jsonFile" : "target-QtScrcpy_autogen-Debug-1e358618add7805cde51.json",
+					"name" : "QtScrcpy_autogen",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/data/workspace/scrcpy-1/scrcpy-pro",
+		"source" : "/data/workspace/scrcpy-1/scrcpy-pro"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

@@ -53,10 +53,10 @@ RM = /home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy
+CMAKE_SOURCE_DIR = /data/workspace/scrcpy-1/scrcpy-pro
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy
+CMAKE_BINARY_DIR = /data/workspace/scrcpy-1/scrcpy-pro
 
 # Include any dependencies generated for this target.
 include QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/depend.make
@@ -72,338 +72,338 @@ include QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.o: QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/mocs_compilation.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/mocs_compilation.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/mocs_compilation.cpp > CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/mocs_compilation.cpp > CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/mocs_compilation.cpp -o CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/mocs_compilation.cpp -o CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o: QtScrcpy/QtScrcpyCore/src/adb/adbprocessimpl.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/adb/adbprocessimpl.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/adb/adbprocessimpl.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/adb/adbprocessimpl.cpp > CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/adb/adbprocessimpl.cpp > CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/adb/adbprocessimpl.cpp -o CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/adb/adbprocessimpl.cpp -o CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o: QtScrcpy/QtScrcpyCore/src/adb/adbprocess.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/adb/adbprocess.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/adb/adbprocess.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/adb/adbprocess.cpp > CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/adb/adbprocess.cpp > CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/adb/adbprocess.cpp -o CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/adb/adbprocess.cpp -o CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o: QtScrcpy/QtScrcpyCore/src/device/device.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/device.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/device.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/device.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/device.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/device.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/device.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.o: QtScrcpy/QtScrcpyCore/src/device/controller/controller.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/controller.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/controller.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/controller.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/controller.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/controller.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/controller.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.o: QtScrcpy/QtScrcpyCore/src/device/controller/bufferutil.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/bufferutil.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/bufferutil.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/bufferutil.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/bufferutil.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/bufferutil.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/bufferutil.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.o: QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertbase.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertbase.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertbase.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertbase.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertbase.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertbase.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertbase.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.o: QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertnormal.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertnormal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertnormal.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertnormal.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertnormal.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertnormal.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertnormal.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.o: QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertgame.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertgame.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertgame.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertgame.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertgame.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertgame.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertgame.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.o: QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/controlmsg.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/controlmsg.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/controlmsg.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/controlmsg.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/controlmsg.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/controlmsg.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/controlmsg.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.o: QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/keymap/keymap.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/keymap/keymap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/keymap/keymap.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/keymap/keymap.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/keymap/keymap.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/keymap/keymap.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/keymap/keymap.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.o: QtScrcpy/QtScrcpyCore/src/device/controller/receiver/devicemsg.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/devicemsg.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/devicemsg.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/devicemsg.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/devicemsg.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/devicemsg.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/devicemsg.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.o: QtScrcpy/QtScrcpyCore/src/device/controller/receiver/receiver.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/receiver.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/receiver.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/receiver.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/receiver.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/receiver.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/receiver.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.o: QtScrcpy/QtScrcpyCore/src/device/decoder/avframeconvert.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/avframeconvert.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/avframeconvert.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/avframeconvert.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/avframeconvert.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/avframeconvert.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/avframeconvert.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.o: QtScrcpy/QtScrcpyCore/src/device/decoder/decoder.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/decoder.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/decoder.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/decoder.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/decoder.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/decoder.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/decoder.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.o: QtScrcpy/QtScrcpyCore/src/device/decoder/fpscounter.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/fpscounter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/fpscounter.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/fpscounter.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/fpscounter.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/fpscounter.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/fpscounter.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.o: QtScrcpy/QtScrcpyCore/src/device/decoder/videobuffer.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/videobuffer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/videobuffer.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/videobuffer.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/videobuffer.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/videobuffer.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/videobuffer.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.o: QtScrcpy/QtScrcpyCore/src/device/filehandler/filehandler.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/filehandler/filehandler.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/filehandler/filehandler.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/filehandler/filehandler.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/filehandler/filehandler.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/filehandler/filehandler.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/filehandler/filehandler.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.o: QtScrcpy/QtScrcpyCore/src/device/recorder/recorder.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/recorder/recorder.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/recorder/recorder.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/recorder/recorder.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/recorder/recorder.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/recorder/recorder.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/recorder/recorder.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o: QtScrcpy/QtScrcpyCore/src/device/server/server.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/server/server.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/server/server.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/server/server.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/server/server.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/server/server.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/server/server.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.o: QtScrcpy/QtScrcpyCore/src/device/server/tcpserver.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/server/tcpserver.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/server/tcpserver.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/server/tcpserver.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/server/tcpserver.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/server/tcpserver.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/server/tcpserver.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.o: QtScrcpy/QtScrcpyCore/src/device/server/videosocket.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/server/videosocket.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/server/videosocket.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/server/videosocket.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/server/videosocket.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/server/videosocket.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/server/videosocket.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.o: QtScrcpy/QtScrcpyCore/src/device/demuxer/demuxer.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/demuxer/demuxer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/demuxer/demuxer.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/demuxer/demuxer.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/demuxer/demuxer.cpp > CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/demuxer/demuxer.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/demuxer/demuxer.cpp -o CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.s
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/flags.make
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.o: QtScrcpy/QtScrcpyCore/src/devicemanage/devicemanage.cpp
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.o: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.o"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.o -c /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/devicemanage/devicemanage.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.o"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.o -MF CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.o.d -o CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.o -c /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/devicemanage/devicemanage.cpp
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.i"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/devicemanage/devicemanage.cpp > CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/devicemanage/devicemanage.cpp > CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.i
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.s"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/devicemanage/devicemanage.cpp -o CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/devicemanage/devicemanage.cpp -o CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.s
 
 # Object files for target QtScrcpyCore
 QtScrcpyCore_OBJECTS = \
@@ -435,47 +435,47 @@ QtScrcpyCore_OBJECTS = \
 # External object files for target QtScrcpyCore
 QtScrcpyCore_EXTERNAL_OBJECTS =
 
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.o
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make
-output/x64/Release/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking CXX static library ../../output/x64/Release/libQtScrcpyCore.a"
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && $(CMAKE_COMMAND) -P CMakeFiles/QtScrcpyCore.dir/cmake_clean_target.cmake
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/QtScrcpyCore.dir/link.txt --verbose=$(VERBOSE)
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/bin/cmake -E copy_if_different /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/adb/linux/adb /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/../output/x64/Release/
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && /home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/bin/cmake -E copy_if_different /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/scrcpy-server /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/../output/x64/Release/
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.o
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make
+output/x64/Debug/libQtScrcpyCore.a: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking CXX static library ../../output/x64/Debug/libQtScrcpyCore.a"
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && $(CMAKE_COMMAND) -P CMakeFiles/QtScrcpyCore.dir/cmake_clean_target.cmake
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/QtScrcpyCore.dir/link.txt --verbose=$(VERBOSE)
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/bin/cmake -E copy_if_different /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/adb/linux/adb /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/../output/x64/Debug/
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && /home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/bin/cmake -E copy_if_different /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/scrcpy-server /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/../output/x64/Debug/
 
 # Rule to build all files generated by this target.
-QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build: output/x64/Release/libQtScrcpyCore.a
+QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build: output/x64/Debug/libQtScrcpyCore.a
 .PHONY : QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/clean:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore && $(CMAKE_COMMAND) -P CMakeFiles/QtScrcpyCore.dir/cmake_clean.cmake
+	cd /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore && $(CMAKE_COMMAND) -P CMakeFiles/QtScrcpyCore.dir/cmake_clean.cmake
 .PHONY : QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/clean
 
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/depend:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/DependInfo.cmake --color=$(COLOR)
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /data/workspace/scrcpy-1/scrcpy-pro /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore /data/workspace/scrcpy-1/scrcpy-pro /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/depend
 

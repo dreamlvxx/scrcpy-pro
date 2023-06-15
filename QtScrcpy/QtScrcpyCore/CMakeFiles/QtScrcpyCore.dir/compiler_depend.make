@@ -78,16 +78,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_comp
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -146,8 +143,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_comp
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
   /usr/include/c++/9/bits/stringfwd.h \
@@ -160,7 +155,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_comp
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -203,8 +197,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_comp
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -387,7 +379,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_comp
   /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
   /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
   /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
-  /usr/include/x86_64-linux-gnu/bits/mathinline.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/attributes.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/macros.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/version.h \
@@ -571,16 +562,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o: QtSc
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -625,8 +613,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o: QtSc
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -640,7 +626,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o: QtSc
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -683,8 +668,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o: QtSc
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -881,16 +864,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o: 
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -935,8 +915,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o: 
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -950,7 +928,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o: 
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -993,8 +970,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o: 
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -1193,16 +1168,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferut
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -1250,8 +1222,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferut
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -1265,7 +1235,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferut
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -1308,8 +1277,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferut
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -1473,16 +1440,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controll
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -1530,8 +1494,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controll
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -1545,7 +1507,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controll
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -1588,8 +1549,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controll
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -1841,16 +1800,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -1895,8 +1851,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhashfunctions.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbytearray.h \
@@ -1914,7 +1868,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -1957,8 +1910,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -2151,16 +2102,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -2219,8 +2167,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
   /usr/include/c++/9/bits/stringfwd.h \
@@ -2233,7 +2179,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -2276,8 +2221,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -2477,16 +2420,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -2531,8 +2471,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhashfunctions.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbytearray.h \
@@ -2550,7 +2488,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -2593,8 +2530,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -2726,7 +2661,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
   /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
   /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
-  /usr/include/x86_64-linux-gnu/bits/mathinline.h \
   /usr/include/c++/9/bits/random.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/opt_random.h \
   /usr/include/c++/9/bits/random.tcc \
@@ -2812,7 +2746,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
   /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
   /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
-  /usr/include/x86_64-linux-gnu/bits/mathinline.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h \
@@ -2837,16 +2770,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QDebug \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qdebug.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qalgorithms.h \
@@ -2922,8 +2852,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhashfunctions.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbytearray.h \
@@ -2941,7 +2869,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -2984,8 +2911,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -3200,16 +3125,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -3254,8 +3176,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -3269,7 +3189,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -3312,8 +3231,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputcon
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -3530,16 +3447,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -3584,8 +3498,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhashfunctions.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbytearray.h \
@@ -3603,7 +3515,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -3646,8 +3557,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -3828,16 +3737,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -3885,8 +3791,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -3900,7 +3804,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -3943,8 +3846,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -4137,16 +4038,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconv
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -4191,8 +4089,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconv
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhashfunctions.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbytearray.h \
@@ -4210,7 +4106,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconv
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -4253,8 +4148,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconv
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -4374,7 +4267,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconv
   /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
   /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
   /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
-  /usr/include/x86_64-linux-gnu/bits/mathinline.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/attributes.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/macros.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/version.h \
@@ -4489,16 +4381,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -4543,8 +4432,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhashfunctions.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbytearray.h \
@@ -4562,7 +4449,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -4605,8 +4491,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -4731,7 +4615,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp
   /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
   /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
   /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
-  /usr/include/x86_64-linux-gnu/bits/mathinline.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/attributes.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/version.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/avconfig.h \
@@ -4847,16 +4730,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -4901,8 +4781,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhashfunctions.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbytearray.h \
@@ -4920,7 +4798,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -4963,8 +4840,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -5145,16 +5020,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -5224,8 +5096,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -5239,7 +5109,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
   /usr/include/c++/9/ext/new_allocator.h \
@@ -5276,8 +5145,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -5375,7 +5242,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer
   /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
   /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
   /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
-  /usr/include/x86_64-linux-gnu/bits/mathinline.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/attributes.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/macros.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/version.h \
@@ -5496,16 +5362,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -5550,8 +5413,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhashfunctions.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbytearray.h \
@@ -5569,7 +5430,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -5612,8 +5472,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -5757,7 +5615,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp
   /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
   /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
   /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
-  /usr/include/x86_64-linux-gnu/bits/mathinline.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/attributes.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/version.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/avconfig.h \
@@ -5878,16 +5735,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o: QtScr
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -5930,8 +5784,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o: QtScr
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -5945,7 +5797,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o: QtScr
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -5988,8 +5839,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o: QtScr
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -6177,7 +6026,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o: QtScr
   /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
   /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
   /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
-  /usr/include/x86_64-linux-gnu/bits/mathinline.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/attributes.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/macros.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/version.h \
@@ -6351,16 +6199,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehan
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -6405,8 +6250,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehan
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -6420,7 +6263,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehan
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -6463,8 +6305,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehan
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -6627,16 +6467,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.c
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -6681,8 +6518,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.c
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -6696,7 +6531,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.c
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -6739,8 +6573,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.c
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -6904,7 +6736,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.c
   /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
   /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
   /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
-  /usr/include/x86_64-linux-gnu/bits/mathinline.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/attributes.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/version.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/avconfig.h \
@@ -7015,16 +6846,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -7069,8 +6897,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -7084,7 +6910,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -7127,8 +6952,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -7359,16 +7182,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cp
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -7417,8 +7237,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cp
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -7432,7 +7250,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cp
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -7475,8 +7292,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cp
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -7659,16 +7474,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -7713,8 +7525,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -7728,7 +7538,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -7771,8 +7580,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -7981,16 +7788,13 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -8035,8 +7839,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhashfunctions.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbytearray.h \
@@ -8054,7 +7856,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -8097,8 +7898,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -8297,7 +8096,6 @@ QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.
   /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
   /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
   /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
-  /usr/include/x86_64-linux-gnu/bits/mathinline.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/attributes.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/macros.h \
   QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/version.h \
@@ -8510,25 +8308,13 @@ QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavformat/avformat.h:
 
 /usr/include/c++/9/bits/shared_ptr.h:
 
-/usr/include/c++/9/thread:
+/usr/include/c++/9/cerrno:
 
-/usr/include/c++/9/bits/unique_lock.h:
+/usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:
 
-QtScrcpy/QtScrcpyCore/src/devicemanage/devicemanage.cpp:
+/usr/include/x86_64-linux-gnu/bits/struct_mutex.h:
 
-QtScrcpy/QtScrcpyCore/src/device/controller/receiver/receiver.cpp:
-
-/usr/include/c++/9/bits/std_mutex.h:
-
-/usr/include/c++/9/mutex:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qapplication.h:
-
-/usr/include/c++/9/future:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qthread.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QThread:
+QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/error.h:
 
 /usr/include/x86_64-linux-gnu/bits/setjmp.h:
 
@@ -8550,17 +8336,25 @@ QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/avconfig.h:
 
 /usr/include/linux/limits.h:
 
+/usr/include/c++/9/bits/uses_allocator.h:
+
 /usr/include/c++/9/ext/atomicity.h:
 
 /usr/include/c++/9/bits/range_access.h:
 
 /usr/include/c++/9/clocale:
 
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qthread.h:
+
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qobjectdefs.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qtextstream.h:
 
 /usr/include/c++/9/ext/new_allocator.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qatomic.h:
 
 /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h:
 
@@ -8570,17 +8364,11 @@ QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/avconfig.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/FILE.h:
 
-/usr/include/c++/9/bits/uses_allocator.h:
-
-/usr/include/x86_64-linux-gnu/bits/wchar2.h:
-
 /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
 
 /usr/include/wchar.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QEvent:
-
-/usr/include/c++/9/math.h:
 
 /usr/include/c++/9/ext/string_conversions.h:
 
@@ -8628,6 +8416,10 @@ QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/controlmsg.h:
 
 /usr/include/c++/9/bits/stl_iterator_base_funcs.h:
 
+/usr/include/c++/9/math.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbasicatomic.h:
+
 /usr/include/c++/9/bits/unique_ptr.h:
 
 /usr/include/c++/9/bits/stl_function.h:
@@ -8637,10 +8429,6 @@ QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/controlmsg.h:
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhash.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qdatastream.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qatomic.h:
-
-/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qlist.h:
 
@@ -8654,27 +8442,13 @@ QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/controlmsg.h:
 
 /usr/include/c++/9/bits/uniform_int_dist.h:
 
+/usr/include/x86_64-linux-gnu/bits/sys_errlist.h:
+
+QtScrcpy/QtScrcpyCore/src/device/controller/receiver/devicemsg.cpp:
+
+/usr/include/x86_64-linux-gnu/bits/time64.h:
+
 /usr/include/c++/9/bits/memoryfwd.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qmargins.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QJsonDocument:
-
-/usr/include/c++/9/bits/hash_bytes.h:
-
-QtScrcpy/QtScrcpyCore/src/device/controller/controller.h:
-
-/usr/include/c++/9/bits/ostream_insert.h:
-
-/usr/include/c++/9/typeinfo:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qnamespace.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qglobalstatic.h:
-
-/usr/include/c++/9/bits/stl_map.h:
 
 /usr/include/c++/9/debug/debug.h:
 
@@ -8693,8 +8467,6 @@ QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec_desc.h:
 /usr/include/x86_64-linux-gnu/sys/select.h:
 
 /usr/include/c++/9/debug/assertions.h:
-
-/usr/include/x86_64-linux-gnu/bits/strings_fortified.h:
 
 /usr/include/x86_64-linux-gnu/bits/waitflags.h:
 
@@ -8742,11 +8514,13 @@ QtScrcpy/QtScrcpyCore/src/adb/adbprocess.cpp:
 
 /usr/include/c++/9/bits/concept_check.h:
 
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QJsonDocument:
+
+/usr/include/c++/9/bits/hash_bytes.h:
+
+QtScrcpy/QtScrcpyCore/src/device/controller/controller.h:
+
 /usr/lib/gcc/x86_64-linux-gnu/9/include/stdint.h:
-
-/usr/include/c++/9/bits/stl_raw_storage_iter.h:
-
-/usr/include/c++/9/bits/stl_algobase.h:
 
 /usr/include/limits.h:
 
@@ -8768,6 +8542,10 @@ QtScrcpy/QtScrcpyCore/src/device/demuxer/demuxer.cpp:
 
 /usr/include/c++/9/type_traits:
 
+/usr/include/c++/9/bits/stream_iterator.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitstatus.h:
+
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qdebug.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
@@ -8777,10 +8555,6 @@ QtScrcpy/QtScrcpyCore/src/device/demuxer/demuxer.cpp:
 QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qobject.h:
-
-/usr/include/c++/9/memory:
-
-/usr/include/x86_64-linux-gnu/bits/types/sigset_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/math-vector.h:
 
@@ -8806,8 +8580,6 @@ QtScrcpy/QtScrcpyCore/include/QtScrcpyCore.h:
 
 /usr/include/x86_64-linux-gnu/bits/time.h:
 
-/usr/include/x86_64-linux-gnu/bits/select2.h:
-
 /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
 
 QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/packet.h:
@@ -8815,12 +8587,6 @@ QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/packet.h:
 QtScrcpy/QtScrcpyCore/src/device/demuxer/demuxer.h:
 
 QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/6YEA5652QU/moc_QtScrcpyCore.cpp:
-
-QtScrcpy/QtScrcpyCore/src/device/controller/receiver/devicemsg.cpp:
-
-/usr/include/x86_64-linux-gnu/bits/time64.h:
-
-/usr/include/x86_64-linux-gnu/bits/sys_errlist.h:
 
 /usr/include/string.h:
 
@@ -8904,8 +8670,6 @@ QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/mathematics.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QVector:
 
-/usr/include/x86_64-linux-gnu/bits/mathinline.h:
-
 /usr/include/x86_64-linux-gnu/c++/9/bits/cpu_defines.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qregion.h:
@@ -8927,6 +8691,8 @@ QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/QBQSNTONFS/moc_adbprocessimpl.cpp:
 /usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
 
 /usr/include/c++/9/cstdlib:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QThread:
 
 /usr/include/x86_64-linux-gnu/bits/wchar.h:
 
@@ -8958,6 +8724,10 @@ QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/rational.h:
 
 /usr/include/c++/9/bits/basic_ios.tcc:
 
+/usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
+
+QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/mocs_compilation.cpp:
+
 /usr/include/stdio.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qcompilerdetection.h:
@@ -8979,12 +8749,6 @@ QtScrcpy/QtScrcpyCore/src/common/qscrcpyevent.h:
 /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h:
 
 /usr/include/c++/9/bits/functexcept.h:
-
-/usr/include/c++/9/cerrno:
-
-/usr/include/x86_64-linux-gnu/bits/waitstatus.h:
-
-/usr/include/c++/9/bits/stream_iterator.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
 
@@ -9032,6 +8796,8 @@ QtScrcpy/QtScrcpyCore/src/device/android/input.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qvariant.h:
 
+/usr/include/c++/9/mutex:
+
 /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
 
 /usr/include/pthread.h:
@@ -9040,17 +8806,7 @@ QtScrcpy/QtScrcpyCore/src/device/android/input.h:
 
 /usr/include/c++/9/initializer_list:
 
-/usr/include/x86_64-linux-gnu/bits/struct_mutex.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:
-
-QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/error.h:
-
 /usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
-
-/usr/include/x86_64-linux-gnu/bits/string_fortified.h:
-
-/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:
 
@@ -9066,33 +8822,23 @@ QtScrcpy/QtScrcpyCore/src/device/device.cpp:
 
 /usr/include/c++/9/bits/stl_bvector.h:
 
-/usr/include/x86_64-linux-gnu/bits/stdlib.h:
-
-/usr/include/stdint.h:
-
-QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/XS5GD45QW7/moc_demuxer.cpp:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbasicatomic.h:
-
-/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:
-
-QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/6YEA5652QU/moc_adbprocess.cpp:
-
-/usr/include/c++/9/bits/random.tcc:
-
-QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/TZCQTYOKL3/moc_decoder.cpp:
-
-QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/mocs_compilation.cpp:
-
-/usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
-
 /usr/include/c++/9/bits/stl_relops.h:
 
 /usr/include/c++/9/bits/stl_construct.h:
 
-/usr/include/x86_64-linux-gnu/bits/stdio.h:
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qnamespace.h:
 
-/usr/include/x86_64-linux-gnu/bits/stdio2.h:
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qglobalstatic.h:
+
+/usr/include/c++/9/bits/stl_map.h:
+
+/usr/include/c++/9/bits/ostream_insert.h:
+
+/usr/include/c++/9/typeinfo:
+
+/usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qmargins.h:
 
 /usr/include/x86_64-linux-gnu/bits/errno.h:
 
@@ -9222,6 +8968,8 @@ QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/buffer.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/9/include/syslimits.h:
 
+/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
+
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qcoreapplication.h:
 
 /usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
@@ -9304,6 +9052,8 @@ QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/samplefmt.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qmap.h:
 
+/usr/include/c++/9/bits/unique_lock.h:
+
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qvector.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qurl.h:
@@ -9327,6 +9077,12 @@ QtScrcpy/QtScrcpyCore/src/device/controller/receiver/devicemsg.h:
 QtScrcpy/QtScrcpyCore/include/QtScrcpyCoreDef.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QString:
+
+QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/6YEA5652QU/moc_adbprocess.cpp:
+
+/usr/include/c++/9/bits/random.tcc:
+
+QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/TZCQTYOKL3/moc_decoder.cpp:
 
 QtScrcpy/QtScrcpyCore/include/adbprocess.h:
 
@@ -9369,6 +9125,10 @@ QtScrcpy/QtScrcpyCore/src/device/android/keycodes.h:
 QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/FIT7WCBYQG/moc_inputconvertbase.cpp:
 
 /usr/include/inttypes.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/sigset_t.h:
+
+/usr/include/c++/9/memory:
 
 QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavutil/version.h:
 
@@ -9439,3 +9199,23 @@ QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/bsf.h:
 QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include/libavcodec/codec_par.h:
 
 QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/TZCQTYOKL3/moc_videobuffer.cpp:
+
+/usr/include/stdint.h:
+
+QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/XS5GD45QW7/moc_demuxer.cpp:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qapplication.h:
+
+/usr/include/c++/9/future:
+
+QtScrcpy/QtScrcpyCore/src/devicemanage/devicemanage.cpp:
+
+QtScrcpy/QtScrcpyCore/src/device/controller/receiver/receiver.cpp:
+
+/usr/include/c++/9/bits/std_mutex.h:
+
+/usr/include/c++/9/thread:
+
+/usr/include/c++/9/bits/stl_algobase.h:
+
+/usr/include/c++/9/bits/stl_raw_storage_iter.h:

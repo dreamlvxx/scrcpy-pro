@@ -57,10 +57,10 @@ RM = /home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy
+CMAKE_SOURCE_DIR = /data/workspace/scrcpy-1/scrcpy-pro
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy
+CMAKE_BINARY_DIR = /data/workspace/scrcpy-1/scrcpy-pro
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -68,7 +68,7 @@ CMAKE_BINARY_DIR = /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake cache editor..."
-	/home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/bin/ccmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/bin/cmake-gui -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -87,14 +87,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(CMAKE_COMMAND) -E cmake_progress_start /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore//CMakeFiles/progress.marks
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QtScrcpy/QtScrcpyCore/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles 0
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(CMAKE_COMMAND) -E cmake_progress_start /data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore//CMakeFiles/progress.marks
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QtScrcpy/QtScrcpyCore/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /data/workspace/scrcpy-1/scrcpy-pro/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QtScrcpy/QtScrcpyCore/clean
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QtScrcpy/QtScrcpyCore/clean
 .PHONY : clean
 
 # The main clean target
@@ -103,22 +103,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QtScrcpy/QtScrcpyCore/preinstall
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QtScrcpy/QtScrcpyCore/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QtScrcpy/QtScrcpyCore/preinstall
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QtScrcpy/QtScrcpyCore/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/rule:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/rule
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/rule
 .PHONY : QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/rule
 
 # Convenience name for target.
@@ -127,12 +127,12 @@ QtScrcpyCore: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/rule
 
 # fast build rule for target.
 QtScrcpyCore/fast:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build
 .PHONY : QtScrcpyCore/fast
 
 # Convenience name for target.
 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore_autogen.dir/rule:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore_autogen.dir/rule
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore_autogen.dir/rule
 .PHONY : QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore_autogen.dir/rule
 
 # Convenience name for target.
@@ -141,7 +141,7 @@ QtScrcpyCore_autogen: QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore_autogen.dir/
 
 # fast build rule for target.
 QtScrcpyCore_autogen/fast:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore_autogen.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore_autogen.dir/build
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore_autogen.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore_autogen.dir/build
 .PHONY : QtScrcpyCore_autogen/fast
 
 QtScrcpyCore_autogen/mocs_compilation.o: QtScrcpyCore_autogen/mocs_compilation.cpp.o
@@ -149,7 +149,7 @@ QtScrcpyCore_autogen/mocs_compilation.o: QtScrcpyCore_autogen/mocs_compilation.c
 
 # target to build an object file
 QtScrcpyCore_autogen/mocs_compilation.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.o
 .PHONY : QtScrcpyCore_autogen/mocs_compilation.cpp.o
 
 QtScrcpyCore_autogen/mocs_compilation.i: QtScrcpyCore_autogen/mocs_compilation.cpp.i
@@ -157,7 +157,7 @@ QtScrcpyCore_autogen/mocs_compilation.i: QtScrcpyCore_autogen/mocs_compilation.c
 
 # target to preprocess a source file
 QtScrcpyCore_autogen/mocs_compilation.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.i
 .PHONY : QtScrcpyCore_autogen/mocs_compilation.cpp.i
 
 QtScrcpyCore_autogen/mocs_compilation.s: QtScrcpyCore_autogen/mocs_compilation.cpp.s
@@ -165,7 +165,7 @@ QtScrcpyCore_autogen/mocs_compilation.s: QtScrcpyCore_autogen/mocs_compilation.c
 
 # target to generate assembly for a file
 QtScrcpyCore_autogen/mocs_compilation.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/QtScrcpyCore_autogen/mocs_compilation.cpp.s
 .PHONY : QtScrcpyCore_autogen/mocs_compilation.cpp.s
 
 src/adb/adbprocess.o: src/adb/adbprocess.cpp.o
@@ -173,7 +173,7 @@ src/adb/adbprocess.o: src/adb/adbprocess.cpp.o
 
 # target to build an object file
 src/adb/adbprocess.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.o
 .PHONY : src/adb/adbprocess.cpp.o
 
 src/adb/adbprocess.i: src/adb/adbprocess.cpp.i
@@ -181,7 +181,7 @@ src/adb/adbprocess.i: src/adb/adbprocess.cpp.i
 
 # target to preprocess a source file
 src/adb/adbprocess.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.i
 .PHONY : src/adb/adbprocess.cpp.i
 
 src/adb/adbprocess.s: src/adb/adbprocess.cpp.s
@@ -189,7 +189,7 @@ src/adb/adbprocess.s: src/adb/adbprocess.cpp.s
 
 # target to generate assembly for a file
 src/adb/adbprocess.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocess.cpp.s
 .PHONY : src/adb/adbprocess.cpp.s
 
 src/adb/adbprocessimpl.o: src/adb/adbprocessimpl.cpp.o
@@ -197,7 +197,7 @@ src/adb/adbprocessimpl.o: src/adb/adbprocessimpl.cpp.o
 
 # target to build an object file
 src/adb/adbprocessimpl.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.o
 .PHONY : src/adb/adbprocessimpl.cpp.o
 
 src/adb/adbprocessimpl.i: src/adb/adbprocessimpl.cpp.i
@@ -205,7 +205,7 @@ src/adb/adbprocessimpl.i: src/adb/adbprocessimpl.cpp.i
 
 # target to preprocess a source file
 src/adb/adbprocessimpl.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.i
 .PHONY : src/adb/adbprocessimpl.cpp.i
 
 src/adb/adbprocessimpl.s: src/adb/adbprocessimpl.cpp.s
@@ -213,7 +213,7 @@ src/adb/adbprocessimpl.s: src/adb/adbprocessimpl.cpp.s
 
 # target to generate assembly for a file
 src/adb/adbprocessimpl.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/adb/adbprocessimpl.cpp.s
 .PHONY : src/adb/adbprocessimpl.cpp.s
 
 src/device/controller/bufferutil.o: src/device/controller/bufferutil.cpp.o
@@ -221,7 +221,7 @@ src/device/controller/bufferutil.o: src/device/controller/bufferutil.cpp.o
 
 # target to build an object file
 src/device/controller/bufferutil.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.o
 .PHONY : src/device/controller/bufferutil.cpp.o
 
 src/device/controller/bufferutil.i: src/device/controller/bufferutil.cpp.i
@@ -229,7 +229,7 @@ src/device/controller/bufferutil.i: src/device/controller/bufferutil.cpp.i
 
 # target to preprocess a source file
 src/device/controller/bufferutil.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.i
 .PHONY : src/device/controller/bufferutil.cpp.i
 
 src/device/controller/bufferutil.s: src/device/controller/bufferutil.cpp.s
@@ -237,7 +237,7 @@ src/device/controller/bufferutil.s: src/device/controller/bufferutil.cpp.s
 
 # target to generate assembly for a file
 src/device/controller/bufferutil.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/bufferutil.cpp.s
 .PHONY : src/device/controller/bufferutil.cpp.s
 
 src/device/controller/controller.o: src/device/controller/controller.cpp.o
@@ -245,7 +245,7 @@ src/device/controller/controller.o: src/device/controller/controller.cpp.o
 
 # target to build an object file
 src/device/controller/controller.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.o
 .PHONY : src/device/controller/controller.cpp.o
 
 src/device/controller/controller.i: src/device/controller/controller.cpp.i
@@ -253,7 +253,7 @@ src/device/controller/controller.i: src/device/controller/controller.cpp.i
 
 # target to preprocess a source file
 src/device/controller/controller.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.i
 .PHONY : src/device/controller/controller.cpp.i
 
 src/device/controller/controller.s: src/device/controller/controller.cpp.s
@@ -261,7 +261,7 @@ src/device/controller/controller.s: src/device/controller/controller.cpp.s
 
 # target to generate assembly for a file
 src/device/controller/controller.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/controller.cpp.s
 .PHONY : src/device/controller/controller.cpp.s
 
 src/device/controller/inputconvert/controlmsg.o: src/device/controller/inputconvert/controlmsg.cpp.o
@@ -269,7 +269,7 @@ src/device/controller/inputconvert/controlmsg.o: src/device/controller/inputconv
 
 # target to build an object file
 src/device/controller/inputconvert/controlmsg.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.o
 .PHONY : src/device/controller/inputconvert/controlmsg.cpp.o
 
 src/device/controller/inputconvert/controlmsg.i: src/device/controller/inputconvert/controlmsg.cpp.i
@@ -277,7 +277,7 @@ src/device/controller/inputconvert/controlmsg.i: src/device/controller/inputconv
 
 # target to preprocess a source file
 src/device/controller/inputconvert/controlmsg.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.i
 .PHONY : src/device/controller/inputconvert/controlmsg.cpp.i
 
 src/device/controller/inputconvert/controlmsg.s: src/device/controller/inputconvert/controlmsg.cpp.s
@@ -285,7 +285,7 @@ src/device/controller/inputconvert/controlmsg.s: src/device/controller/inputconv
 
 # target to generate assembly for a file
 src/device/controller/inputconvert/controlmsg.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/controlmsg.cpp.s
 .PHONY : src/device/controller/inputconvert/controlmsg.cpp.s
 
 src/device/controller/inputconvert/inputconvertbase.o: src/device/controller/inputconvert/inputconvertbase.cpp.o
@@ -293,7 +293,7 @@ src/device/controller/inputconvert/inputconvertbase.o: src/device/controller/inp
 
 # target to build an object file
 src/device/controller/inputconvert/inputconvertbase.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.o
 .PHONY : src/device/controller/inputconvert/inputconvertbase.cpp.o
 
 src/device/controller/inputconvert/inputconvertbase.i: src/device/controller/inputconvert/inputconvertbase.cpp.i
@@ -301,7 +301,7 @@ src/device/controller/inputconvert/inputconvertbase.i: src/device/controller/inp
 
 # target to preprocess a source file
 src/device/controller/inputconvert/inputconvertbase.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.i
 .PHONY : src/device/controller/inputconvert/inputconvertbase.cpp.i
 
 src/device/controller/inputconvert/inputconvertbase.s: src/device/controller/inputconvert/inputconvertbase.cpp.s
@@ -309,7 +309,7 @@ src/device/controller/inputconvert/inputconvertbase.s: src/device/controller/inp
 
 # target to generate assembly for a file
 src/device/controller/inputconvert/inputconvertbase.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertbase.cpp.s
 .PHONY : src/device/controller/inputconvert/inputconvertbase.cpp.s
 
 src/device/controller/inputconvert/inputconvertgame.o: src/device/controller/inputconvert/inputconvertgame.cpp.o
@@ -317,7 +317,7 @@ src/device/controller/inputconvert/inputconvertgame.o: src/device/controller/inp
 
 # target to build an object file
 src/device/controller/inputconvert/inputconvertgame.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.o
 .PHONY : src/device/controller/inputconvert/inputconvertgame.cpp.o
 
 src/device/controller/inputconvert/inputconvertgame.i: src/device/controller/inputconvert/inputconvertgame.cpp.i
@@ -325,7 +325,7 @@ src/device/controller/inputconvert/inputconvertgame.i: src/device/controller/inp
 
 # target to preprocess a source file
 src/device/controller/inputconvert/inputconvertgame.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.i
 .PHONY : src/device/controller/inputconvert/inputconvertgame.cpp.i
 
 src/device/controller/inputconvert/inputconvertgame.s: src/device/controller/inputconvert/inputconvertgame.cpp.s
@@ -333,7 +333,7 @@ src/device/controller/inputconvert/inputconvertgame.s: src/device/controller/inp
 
 # target to generate assembly for a file
 src/device/controller/inputconvert/inputconvertgame.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertgame.cpp.s
 .PHONY : src/device/controller/inputconvert/inputconvertgame.cpp.s
 
 src/device/controller/inputconvert/inputconvertnormal.o: src/device/controller/inputconvert/inputconvertnormal.cpp.o
@@ -341,7 +341,7 @@ src/device/controller/inputconvert/inputconvertnormal.o: src/device/controller/i
 
 # target to build an object file
 src/device/controller/inputconvert/inputconvertnormal.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.o
 .PHONY : src/device/controller/inputconvert/inputconvertnormal.cpp.o
 
 src/device/controller/inputconvert/inputconvertnormal.i: src/device/controller/inputconvert/inputconvertnormal.cpp.i
@@ -349,7 +349,7 @@ src/device/controller/inputconvert/inputconvertnormal.i: src/device/controller/i
 
 # target to preprocess a source file
 src/device/controller/inputconvert/inputconvertnormal.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.i
 .PHONY : src/device/controller/inputconvert/inputconvertnormal.cpp.i
 
 src/device/controller/inputconvert/inputconvertnormal.s: src/device/controller/inputconvert/inputconvertnormal.cpp.s
@@ -357,7 +357,7 @@ src/device/controller/inputconvert/inputconvertnormal.s: src/device/controller/i
 
 # target to generate assembly for a file
 src/device/controller/inputconvert/inputconvertnormal.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/inputconvertnormal.cpp.s
 .PHONY : src/device/controller/inputconvert/inputconvertnormal.cpp.s
 
 src/device/controller/inputconvert/keymap/keymap.o: src/device/controller/inputconvert/keymap/keymap.cpp.o
@@ -365,7 +365,7 @@ src/device/controller/inputconvert/keymap/keymap.o: src/device/controller/inputc
 
 # target to build an object file
 src/device/controller/inputconvert/keymap/keymap.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.o
 .PHONY : src/device/controller/inputconvert/keymap/keymap.cpp.o
 
 src/device/controller/inputconvert/keymap/keymap.i: src/device/controller/inputconvert/keymap/keymap.cpp.i
@@ -373,7 +373,7 @@ src/device/controller/inputconvert/keymap/keymap.i: src/device/controller/inputc
 
 # target to preprocess a source file
 src/device/controller/inputconvert/keymap/keymap.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.i
 .PHONY : src/device/controller/inputconvert/keymap/keymap.cpp.i
 
 src/device/controller/inputconvert/keymap/keymap.s: src/device/controller/inputconvert/keymap/keymap.cpp.s
@@ -381,7 +381,7 @@ src/device/controller/inputconvert/keymap/keymap.s: src/device/controller/inputc
 
 # target to generate assembly for a file
 src/device/controller/inputconvert/keymap/keymap.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/inputconvert/keymap/keymap.cpp.s
 .PHONY : src/device/controller/inputconvert/keymap/keymap.cpp.s
 
 src/device/controller/receiver/devicemsg.o: src/device/controller/receiver/devicemsg.cpp.o
@@ -389,7 +389,7 @@ src/device/controller/receiver/devicemsg.o: src/device/controller/receiver/devic
 
 # target to build an object file
 src/device/controller/receiver/devicemsg.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.o
 .PHONY : src/device/controller/receiver/devicemsg.cpp.o
 
 src/device/controller/receiver/devicemsg.i: src/device/controller/receiver/devicemsg.cpp.i
@@ -397,7 +397,7 @@ src/device/controller/receiver/devicemsg.i: src/device/controller/receiver/devic
 
 # target to preprocess a source file
 src/device/controller/receiver/devicemsg.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.i
 .PHONY : src/device/controller/receiver/devicemsg.cpp.i
 
 src/device/controller/receiver/devicemsg.s: src/device/controller/receiver/devicemsg.cpp.s
@@ -405,7 +405,7 @@ src/device/controller/receiver/devicemsg.s: src/device/controller/receiver/devic
 
 # target to generate assembly for a file
 src/device/controller/receiver/devicemsg.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/devicemsg.cpp.s
 .PHONY : src/device/controller/receiver/devicemsg.cpp.s
 
 src/device/controller/receiver/receiver.o: src/device/controller/receiver/receiver.cpp.o
@@ -413,7 +413,7 @@ src/device/controller/receiver/receiver.o: src/device/controller/receiver/receiv
 
 # target to build an object file
 src/device/controller/receiver/receiver.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.o
 .PHONY : src/device/controller/receiver/receiver.cpp.o
 
 src/device/controller/receiver/receiver.i: src/device/controller/receiver/receiver.cpp.i
@@ -421,7 +421,7 @@ src/device/controller/receiver/receiver.i: src/device/controller/receiver/receiv
 
 # target to preprocess a source file
 src/device/controller/receiver/receiver.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.i
 .PHONY : src/device/controller/receiver/receiver.cpp.i
 
 src/device/controller/receiver/receiver.s: src/device/controller/receiver/receiver.cpp.s
@@ -429,7 +429,7 @@ src/device/controller/receiver/receiver.s: src/device/controller/receiver/receiv
 
 # target to generate assembly for a file
 src/device/controller/receiver/receiver.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/controller/receiver/receiver.cpp.s
 .PHONY : src/device/controller/receiver/receiver.cpp.s
 
 src/device/decoder/avframeconvert.o: src/device/decoder/avframeconvert.cpp.o
@@ -437,7 +437,7 @@ src/device/decoder/avframeconvert.o: src/device/decoder/avframeconvert.cpp.o
 
 # target to build an object file
 src/device/decoder/avframeconvert.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.o
 .PHONY : src/device/decoder/avframeconvert.cpp.o
 
 src/device/decoder/avframeconvert.i: src/device/decoder/avframeconvert.cpp.i
@@ -445,7 +445,7 @@ src/device/decoder/avframeconvert.i: src/device/decoder/avframeconvert.cpp.i
 
 # target to preprocess a source file
 src/device/decoder/avframeconvert.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.i
 .PHONY : src/device/decoder/avframeconvert.cpp.i
 
 src/device/decoder/avframeconvert.s: src/device/decoder/avframeconvert.cpp.s
@@ -453,7 +453,7 @@ src/device/decoder/avframeconvert.s: src/device/decoder/avframeconvert.cpp.s
 
 # target to generate assembly for a file
 src/device/decoder/avframeconvert.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/avframeconvert.cpp.s
 .PHONY : src/device/decoder/avframeconvert.cpp.s
 
 src/device/decoder/decoder.o: src/device/decoder/decoder.cpp.o
@@ -461,7 +461,7 @@ src/device/decoder/decoder.o: src/device/decoder/decoder.cpp.o
 
 # target to build an object file
 src/device/decoder/decoder.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.o
 .PHONY : src/device/decoder/decoder.cpp.o
 
 src/device/decoder/decoder.i: src/device/decoder/decoder.cpp.i
@@ -469,7 +469,7 @@ src/device/decoder/decoder.i: src/device/decoder/decoder.cpp.i
 
 # target to preprocess a source file
 src/device/decoder/decoder.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.i
 .PHONY : src/device/decoder/decoder.cpp.i
 
 src/device/decoder/decoder.s: src/device/decoder/decoder.cpp.s
@@ -477,7 +477,7 @@ src/device/decoder/decoder.s: src/device/decoder/decoder.cpp.s
 
 # target to generate assembly for a file
 src/device/decoder/decoder.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/decoder.cpp.s
 .PHONY : src/device/decoder/decoder.cpp.s
 
 src/device/decoder/fpscounter.o: src/device/decoder/fpscounter.cpp.o
@@ -485,7 +485,7 @@ src/device/decoder/fpscounter.o: src/device/decoder/fpscounter.cpp.o
 
 # target to build an object file
 src/device/decoder/fpscounter.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.o
 .PHONY : src/device/decoder/fpscounter.cpp.o
 
 src/device/decoder/fpscounter.i: src/device/decoder/fpscounter.cpp.i
@@ -493,7 +493,7 @@ src/device/decoder/fpscounter.i: src/device/decoder/fpscounter.cpp.i
 
 # target to preprocess a source file
 src/device/decoder/fpscounter.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.i
 .PHONY : src/device/decoder/fpscounter.cpp.i
 
 src/device/decoder/fpscounter.s: src/device/decoder/fpscounter.cpp.s
@@ -501,7 +501,7 @@ src/device/decoder/fpscounter.s: src/device/decoder/fpscounter.cpp.s
 
 # target to generate assembly for a file
 src/device/decoder/fpscounter.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/fpscounter.cpp.s
 .PHONY : src/device/decoder/fpscounter.cpp.s
 
 src/device/decoder/videobuffer.o: src/device/decoder/videobuffer.cpp.o
@@ -509,7 +509,7 @@ src/device/decoder/videobuffer.o: src/device/decoder/videobuffer.cpp.o
 
 # target to build an object file
 src/device/decoder/videobuffer.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.o
 .PHONY : src/device/decoder/videobuffer.cpp.o
 
 src/device/decoder/videobuffer.i: src/device/decoder/videobuffer.cpp.i
@@ -517,7 +517,7 @@ src/device/decoder/videobuffer.i: src/device/decoder/videobuffer.cpp.i
 
 # target to preprocess a source file
 src/device/decoder/videobuffer.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.i
 .PHONY : src/device/decoder/videobuffer.cpp.i
 
 src/device/decoder/videobuffer.s: src/device/decoder/videobuffer.cpp.s
@@ -525,7 +525,7 @@ src/device/decoder/videobuffer.s: src/device/decoder/videobuffer.cpp.s
 
 # target to generate assembly for a file
 src/device/decoder/videobuffer.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/decoder/videobuffer.cpp.s
 .PHONY : src/device/decoder/videobuffer.cpp.s
 
 src/device/demuxer/demuxer.o: src/device/demuxer/demuxer.cpp.o
@@ -533,7 +533,7 @@ src/device/demuxer/demuxer.o: src/device/demuxer/demuxer.cpp.o
 
 # target to build an object file
 src/device/demuxer/demuxer.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.o
 .PHONY : src/device/demuxer/demuxer.cpp.o
 
 src/device/demuxer/demuxer.i: src/device/demuxer/demuxer.cpp.i
@@ -541,7 +541,7 @@ src/device/demuxer/demuxer.i: src/device/demuxer/demuxer.cpp.i
 
 # target to preprocess a source file
 src/device/demuxer/demuxer.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.i
 .PHONY : src/device/demuxer/demuxer.cpp.i
 
 src/device/demuxer/demuxer.s: src/device/demuxer/demuxer.cpp.s
@@ -549,7 +549,7 @@ src/device/demuxer/demuxer.s: src/device/demuxer/demuxer.cpp.s
 
 # target to generate assembly for a file
 src/device/demuxer/demuxer.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/demuxer/demuxer.cpp.s
 .PHONY : src/device/demuxer/demuxer.cpp.s
 
 src/device/device.o: src/device/device.cpp.o
@@ -557,7 +557,7 @@ src/device/device.o: src/device/device.cpp.o
 
 # target to build an object file
 src/device/device.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.o
 .PHONY : src/device/device.cpp.o
 
 src/device/device.i: src/device/device.cpp.i
@@ -565,7 +565,7 @@ src/device/device.i: src/device/device.cpp.i
 
 # target to preprocess a source file
 src/device/device.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.i
 .PHONY : src/device/device.cpp.i
 
 src/device/device.s: src/device/device.cpp.s
@@ -573,7 +573,7 @@ src/device/device.s: src/device/device.cpp.s
 
 # target to generate assembly for a file
 src/device/device.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/device.cpp.s
 .PHONY : src/device/device.cpp.s
 
 src/device/filehandler/filehandler.o: src/device/filehandler/filehandler.cpp.o
@@ -581,7 +581,7 @@ src/device/filehandler/filehandler.o: src/device/filehandler/filehandler.cpp.o
 
 # target to build an object file
 src/device/filehandler/filehandler.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.o
 .PHONY : src/device/filehandler/filehandler.cpp.o
 
 src/device/filehandler/filehandler.i: src/device/filehandler/filehandler.cpp.i
@@ -589,7 +589,7 @@ src/device/filehandler/filehandler.i: src/device/filehandler/filehandler.cpp.i
 
 # target to preprocess a source file
 src/device/filehandler/filehandler.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.i
 .PHONY : src/device/filehandler/filehandler.cpp.i
 
 src/device/filehandler/filehandler.s: src/device/filehandler/filehandler.cpp.s
@@ -597,7 +597,7 @@ src/device/filehandler/filehandler.s: src/device/filehandler/filehandler.cpp.s
 
 # target to generate assembly for a file
 src/device/filehandler/filehandler.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/filehandler/filehandler.cpp.s
 .PHONY : src/device/filehandler/filehandler.cpp.s
 
 src/device/recorder/recorder.o: src/device/recorder/recorder.cpp.o
@@ -605,7 +605,7 @@ src/device/recorder/recorder.o: src/device/recorder/recorder.cpp.o
 
 # target to build an object file
 src/device/recorder/recorder.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.o
 .PHONY : src/device/recorder/recorder.cpp.o
 
 src/device/recorder/recorder.i: src/device/recorder/recorder.cpp.i
@@ -613,7 +613,7 @@ src/device/recorder/recorder.i: src/device/recorder/recorder.cpp.i
 
 # target to preprocess a source file
 src/device/recorder/recorder.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.i
 .PHONY : src/device/recorder/recorder.cpp.i
 
 src/device/recorder/recorder.s: src/device/recorder/recorder.cpp.s
@@ -621,7 +621,7 @@ src/device/recorder/recorder.s: src/device/recorder/recorder.cpp.s
 
 # target to generate assembly for a file
 src/device/recorder/recorder.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/recorder/recorder.cpp.s
 .PHONY : src/device/recorder/recorder.cpp.s
 
 src/device/server/server.o: src/device/server/server.cpp.o
@@ -629,7 +629,7 @@ src/device/server/server.o: src/device/server/server.cpp.o
 
 # target to build an object file
 src/device/server/server.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.o
 .PHONY : src/device/server/server.cpp.o
 
 src/device/server/server.i: src/device/server/server.cpp.i
@@ -637,7 +637,7 @@ src/device/server/server.i: src/device/server/server.cpp.i
 
 # target to preprocess a source file
 src/device/server/server.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.i
 .PHONY : src/device/server/server.cpp.i
 
 src/device/server/server.s: src/device/server/server.cpp.s
@@ -645,7 +645,7 @@ src/device/server/server.s: src/device/server/server.cpp.s
 
 # target to generate assembly for a file
 src/device/server/server.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/server.cpp.s
 .PHONY : src/device/server/server.cpp.s
 
 src/device/server/tcpserver.o: src/device/server/tcpserver.cpp.o
@@ -653,7 +653,7 @@ src/device/server/tcpserver.o: src/device/server/tcpserver.cpp.o
 
 # target to build an object file
 src/device/server/tcpserver.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.o
 .PHONY : src/device/server/tcpserver.cpp.o
 
 src/device/server/tcpserver.i: src/device/server/tcpserver.cpp.i
@@ -661,7 +661,7 @@ src/device/server/tcpserver.i: src/device/server/tcpserver.cpp.i
 
 # target to preprocess a source file
 src/device/server/tcpserver.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.i
 .PHONY : src/device/server/tcpserver.cpp.i
 
 src/device/server/tcpserver.s: src/device/server/tcpserver.cpp.s
@@ -669,7 +669,7 @@ src/device/server/tcpserver.s: src/device/server/tcpserver.cpp.s
 
 # target to generate assembly for a file
 src/device/server/tcpserver.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/tcpserver.cpp.s
 .PHONY : src/device/server/tcpserver.cpp.s
 
 src/device/server/videosocket.o: src/device/server/videosocket.cpp.o
@@ -677,7 +677,7 @@ src/device/server/videosocket.o: src/device/server/videosocket.cpp.o
 
 # target to build an object file
 src/device/server/videosocket.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.o
 .PHONY : src/device/server/videosocket.cpp.o
 
 src/device/server/videosocket.i: src/device/server/videosocket.cpp.i
@@ -685,7 +685,7 @@ src/device/server/videosocket.i: src/device/server/videosocket.cpp.i
 
 # target to preprocess a source file
 src/device/server/videosocket.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.i
 .PHONY : src/device/server/videosocket.cpp.i
 
 src/device/server/videosocket.s: src/device/server/videosocket.cpp.s
@@ -693,7 +693,7 @@ src/device/server/videosocket.s: src/device/server/videosocket.cpp.s
 
 # target to generate assembly for a file
 src/device/server/videosocket.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/device/server/videosocket.cpp.s
 .PHONY : src/device/server/videosocket.cpp.s
 
 src/devicemanage/devicemanage.o: src/devicemanage/devicemanage.cpp.o
@@ -701,7 +701,7 @@ src/devicemanage/devicemanage.o: src/devicemanage/devicemanage.cpp.o
 
 # target to build an object file
 src/devicemanage/devicemanage.cpp.o:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.o
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.o
 .PHONY : src/devicemanage/devicemanage.cpp.o
 
 src/devicemanage/devicemanage.i: src/devicemanage/devicemanage.cpp.i
@@ -709,7 +709,7 @@ src/devicemanage/devicemanage.i: src/devicemanage/devicemanage.cpp.i
 
 # target to preprocess a source file
 src/devicemanage/devicemanage.cpp.i:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.i
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.i
 .PHONY : src/devicemanage/devicemanage.cpp.i
 
 src/devicemanage/devicemanage.s: src/devicemanage/devicemanage.cpp.s
@@ -717,7 +717,7 @@ src/devicemanage/devicemanage.s: src/devicemanage/devicemanage.cpp.s
 
 # target to generate assembly for a file
 src/devicemanage/devicemanage.cpp.s:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.s
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(MAKE) $(MAKESILENT) -f QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/build.make QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir/src/devicemanage/devicemanage.cpp.s
 .PHONY : src/devicemanage/devicemanage.cpp.s
 
 # Help Target
@@ -813,6 +813,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /data/workspace/scrcpy-1/scrcpy-pro && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

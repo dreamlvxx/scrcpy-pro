@@ -83,16 +83,13 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o: QtScrc
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -137,8 +134,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o: QtScrc
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -152,7 +147,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o: QtScrc
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -195,8 +189,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/QtScrcpy_autogen/mocs_compilation.cpp.o: QtScrc
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -522,16 +514,13 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.o: QtScrcpy/audio/audioou
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -582,8 +571,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.o: QtScrcpy/audio/audioou
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -597,7 +584,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.o: QtScrcpy/audio/audioou
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -640,8 +626,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/audio/audiooutput.cpp.o: QtScrcpy/audio/audioou
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -861,16 +845,13 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.o: QtScrcpy/fontawes
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -918,8 +899,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.o: QtScrcpy/fontawes
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -933,7 +912,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.o: QtScrcpy/fontawes
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -976,8 +954,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/fontawesome/iconhelper.cpp.o: QtScrcpy/fontawes
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -1202,16 +1178,13 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o: QtScrcpy
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -1258,8 +1231,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o: QtScrcpy
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhashfunctions.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbytearray.h \
@@ -1277,7 +1248,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o: QtScrcpy
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -1320,8 +1290,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o: QtScrcpy
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -1544,16 +1512,13 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/main.cpp.o: QtScrcpy/main.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -1601,8 +1566,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/main.cpp.o: QtScrcpy/main.cpp \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -1616,7 +1579,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/main.cpp.o: QtScrcpy/main.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -1659,8 +1621,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/main.cpp.o: QtScrcpy/main.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -1966,16 +1926,13 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.o: QtScrcpy/render/
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -2020,8 +1977,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.o: QtScrcpy/render/
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -2035,7 +1990,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.o: QtScrcpy/render/
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -2078,8 +2032,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/render/qyuvopenglwidget.cpp.o: QtScrcpy/render/
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -2326,16 +2278,13 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o: QtScrcpy/ui/dialog.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -2380,8 +2329,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o: QtScrcpy/ui/dialog.cpp \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhashfunctions.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbytearray.h \
@@ -2399,7 +2346,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o: QtScrcpy/ui/dialog.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -2442,8 +2388,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o: QtScrcpy/ui/dialog.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -2781,16 +2725,13 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.o: QtScrcpy/ui/toolform.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -2835,8 +2776,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.o: QtScrcpy/ui/toolform.cpp \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhashfunctions.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbytearray.h \
@@ -2854,7 +2793,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.o: QtScrcpy/ui/toolform.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -2897,8 +2835,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/toolform.cpp.o: QtScrcpy/ui/toolform.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -3167,16 +3103,13 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.o: QtScrcpy/ui/videoform.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -3228,8 +3161,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.o: QtScrcpy/ui/videoform.cpp \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -3243,7 +3174,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.o: QtScrcpy/ui/videoform.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -3286,8 +3216,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/videoform.cpp.o: QtScrcpy/ui/videoform.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -3623,16 +3551,13 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.o: QtScrcpy/uibase/k
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -3691,8 +3616,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.o: QtScrcpy/uibase/k
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
   /usr/include/c++/9/bits/stringfwd.h \
@@ -3705,7 +3628,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.o: QtScrcpy/uibase/k
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -3748,8 +3670,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.o: QtScrcpy/uibase/k
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -3861,7 +3781,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/keepratiowidget.cpp.o: QtScrcpy/uibase/k
   /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
   /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
   /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
-  /usr/include/x86_64-linux-gnu/bits/mathinline.h \
   QtScrcpy/uibase/keepratiowidget.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QPointer \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qpointer.h \
@@ -3967,16 +3886,13 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o: QtScrcpy/uibase/ma
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -4021,8 +3937,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o: QtScrcpy/uibase/ma
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhashfunctions.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbytearray.h \
@@ -4040,7 +3954,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o: QtScrcpy/uibase/ma
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -4083,8 +3996,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/uibase/magneticwidget.cpp.o: QtScrcpy/uibase/ma
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -4306,16 +4217,13 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/util/config.cpp.o: QtScrcpy/util/config.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -4360,8 +4268,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/util/config.cpp.o: QtScrcpy/util/config.cpp \
   /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/9/stdlib.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
   /usr/include/c++/9/string \
@@ -4375,7 +4281,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/util/config.cpp.o: QtScrcpy/util/config.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/9/cstdint \
   /usr/include/c++/9/bits/allocator.h \
   /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
@@ -4418,8 +4323,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/util/config.cpp.o: QtScrcpy/util/config.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/9/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -4618,16 +4521,13 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/mousetap.cpp.o: QtScrcpy/util/mou
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -4749,16 +4649,13 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.o: QtScrcpy/util/mo
   /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/9/bits/std_abs.h \
   /usr/include/c++/9/bits/algorithmfwd.h \
   /usr/include/c++/9/bits/stl_heap.h \
@@ -4839,7 +4736,11 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/util/mousetap/xmousetap.cpp.o: QtScrcpy/util/mo
 
 QtScrcpy/util/mousetap/xmousetap.cpp:
 
+QtScrcpy/util/mousetap/xmousetap.h:
+
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qsettings.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QSettings:
 
 QtScrcpy/util/config.cpp:
 
@@ -4904,8 +4805,6 @@ QtScrcpy/ui/toolform.cpp:
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qgroupbox.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/QGroupBox:
-
-/usr/include/x86_64-linux-gnu/bits/mathinline.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qboxlayout.h:
 
@@ -5021,29 +4920,13 @@ QtScrcpy/QtScrcpyCore/include/adbprocess.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QTimer:
 
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qtabbar.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QMargins:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qstyle.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qabstractslider.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qcombobox.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qvalidator.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qabstractspinbox.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qstyleoption.h:
+/usr/include/asm-generic/errno.h:
 
 /usr/include/c++/9/cerrno:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QMutex:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h:
-
-/usr/include/x86_64-linux-gnu/bits/stdio2.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtX11Extras/QX11Info:
 
@@ -5053,9 +4936,7 @@ QtScrcpy/QtScrcpyCore/include/adbprocess.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:
 
-QtScrcpy/util/mousetap/xmousetap.h:
-
-/usr/include/x86_64-linux-gnu/bits/select2.h:
+/usr/include/asm-generic/errno-base.h:
 
 /usr/include/x86_64-linux-gnu/bits/setjmp.h:
 
@@ -5083,7 +4964,15 @@ QtScrcpy/util/mousetap/mousetap.cpp:
 
 /usr/include/linux/limits.h:
 
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qpen.h:
+
+/usr/include/c++/9/bits/uses_allocator.h:
+
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qline.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qcombobox.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qvalidator.h:
 
 /usr/include/c++/9/ext/atomicity.h:
 
@@ -5120,12 +5009,6 @@ QtScrcpy/QtScrcpy_autogen/B2KWJJ5A6K/moc_magneticwidget.cpp:
 /usr/include/c++/9/iosfwd:
 
 /usr/include/x86_64-linux-gnu/bits/types/FILE.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qpen.h:
-
-/usr/include/c++/9/bits/uses_allocator.h:
-
-/usr/include/x86_64-linux-gnu/bits/wchar2.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
 
@@ -5169,6 +5052,8 @@ QtScrcpy/uibase/magneticwidget.cpp:
 
 /usr/include/c++/9/bits/stl_iterator_base_funcs.h:
 
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbasicatomic.h:
+
 /usr/include/x86_64-linux-gnu/c++/9/bits/c++locale.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhash.h:
@@ -5203,30 +5088,6 @@ QtScrcpy/uibase/magneticwidget.cpp:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qvector3d.h:
 
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qtextdocument.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qtypeinfo.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/QSystemTrayIcon:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qrgb.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/QHBoxLayout:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qaction.h:
-
-/usr/include/c++/9/bits/exception.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qtgui-config.h:
-
-/usr/include/c++/9/debug/assertions.h:
-
-/usr/include/x86_64-linux-gnu/bits/strings_fortified.h:
-
-/usr/include/x86_64-linux-gnu/bits/waitflags.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qglobal.h:
-
 /usr/include/x86_64-linux-gnu/c++/9/bits/atomic_word.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qinputmethod.h:
@@ -5234,6 +5095,12 @@ QtScrcpy/uibase/magneticwidget.cpp:
 /usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
 
 /usr/include/x86_64-linux-gnu/sys/select.h:
+
+/usr/include/c++/9/debug/assertions.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitflags.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qglobal.h:
 
 /usr/include/c++/9/bits/stl_iterator_base_types.h:
 
@@ -5263,13 +5130,11 @@ QtScrcpy/audio/audiooutput.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qtcore-config.h:
 
+/usr/include/x86_64-linux-gnu/asm/errno.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qbrush.h:
+
 QtScrcpy/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qversiontagging.h:
-
-/usr/include/c++/9/bits/std_abs.h:
-
-/usr/include/c++/9/bits/algorithmfwd.h:
 
 /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
 
@@ -5295,6 +5160,8 @@ QtScrcpy/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp:
 
 /usr/lib/gcc/x86_64-linux-gnu/9/include/stdint.h:
 
+/usr/include/x86_64-linux-gnu/bits/types/error_t.h:
+
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qpainter.h:
 
 /usr/include/limits.h:
@@ -5304,6 +5171,18 @@ QtScrcpy/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp:
 /usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qlistwidget.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qtextdocument.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qtypeinfo.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/QSystemTrayIcon:
+
+/usr/include/c++/9/bits/basic_string.tcc:
+
+/usr/include/c++/9/bits/exception_ptr.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qrgb.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QtGlobal:
 
@@ -5377,6 +5256,12 @@ QtScrcpy/QtScrcpy_autogen/include/ui_toolform.h:
 
 /usr/include/c++/9/bits/streambuf.tcc:
 
+/usr/include/c++/9/bits/functional_hash.h:
+
+/usr/include/c++/9/bits/allocator.h:
+
+/usr/include/x86_64-linux-gnu/c++/9/bits/ctype_base.h:
+
 /usr/include/alloca.h:
 
 QtScrcpy/groupcontroller/groupcontroller.cpp:
@@ -5386,6 +5271,20 @@ QtScrcpy/groupcontroller/groupcontroller.cpp:
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qglobalstatic.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qnamespace.h:
+
+/usr/include/c++/9/bits/std_abs.h:
+
+/usr/include/c++/9/bits/algorithmfwd.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qversiontagging.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/QHBoxLayout:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qaction.h:
+
+/usr/include/c++/9/bits/exception.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qtgui-config.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qmutex.h:
 
@@ -5400,8 +5299,6 @@ QtScrcpy/groupcontroller/groupcontroller.h:
 /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
 
 /usr/include/c++/9/stdexcept:
-
-/usr/include/x86_64-linux-gnu/bits/stdio.h:
 
 /usr/include/x86_64-linux-gnu/sys/cdefs.h:
 
@@ -5537,12 +5434,6 @@ QtScrcpy/ui/dialog.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
 
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QSettings:
-
-/usr/include/x86_64-linux-gnu/bits/string_fortified.h:
-
-/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
-
 /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:
 
 /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h:
@@ -5551,41 +5442,15 @@ QtScrcpy/ui/dialog.h:
 
 /usr/include/c++/9/bits/stl_bvector.h:
 
-/usr/include/x86_64-linux-gnu/bits/stdlib.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbasicatomic.h:
-
-/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:
-
 /usr/include/c++/9/bits/stl_relops.h:
 
 /usr/include/c++/9/bits/stl_construct.h:
 
-/usr/include/x86_64-linux-gnu/asm/errno.h:
-
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qbrush.h:
-
-/usr/include/asm-generic/errno.h:
-
-/usr/include/asm-generic/errno-base.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/error_t.h:
-
-/usr/include/c++/9/bits/functional_hash.h:
-
-/usr/include/c++/9/bits/allocator.h:
-
-/usr/include/x86_64-linux-gnu/c++/9/bits/ctype_base.h:
-
-/usr/include/c++/9/bits/exception_ptr.h:
-
-/usr/include/c++/9/bits/basic_string.tcc:
+/usr/include/c++/9/iterator:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qconfig.h:
 
 /usr/include/c++/9/bits/cxxabi_forced.h:
-
-/usr/include/c++/9/iterator:
 
 /usr/include/c++/9/ios:
 
@@ -5612,12 +5477,6 @@ QtScrcpy/ui/dialog.h:
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/QWidget:
 
 /usr/include/wctype.h:
-
-QtScrcpy/fontawesome/iconhelper.cpp:
-
-/usr/include/c++/9/backward/auto_ptr.h:
-
-/usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:
 
 QtScrcpy/QtScrcpy_autogen/PZONOMFGYT/moc_audiooutput.cpp:
 
@@ -5679,6 +5538,8 @@ QtScrcpy/QtScrcpy_autogen/RZRAGMB46M/moc_qyuvopenglwidget.cpp:
 
 /usr/lib/gcc/x86_64-linux-gnu/9/include/syslimits.h:
 
+/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
+
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qcoreapplication.h:
 
 /usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
@@ -5694,6 +5555,10 @@ QtScrcpy/QtScrcpy_autogen/RZRAGMB46M/moc_qyuvopenglwidget.cpp:
 /usr/include/x86_64-linux-gnu/bits/uio_lim.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstringlist.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QMargins:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qstyle.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qregexp.h:
 
@@ -5755,10 +5620,6 @@ QtScrcpy/QtScrcpy_autogen/UYX5XTB5RZ/moc_dialog.cpp:
 
 /usr/include/c++/9/bits/std_mutex.h:
 
-/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qslider.h:
-
-/usr/include/c++/9/bits/unique_lock.h:
-
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qmap.h:
 
 /usr/include/c++/9/thread:
@@ -5800,6 +5661,12 @@ QtScrcpy/util/config.h:
 /usr/include/c++/9/bits/shared_ptr_base.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qdatastream.h:
+
+QtScrcpy/fontawesome/iconhelper.cpp:
+
+/usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:
+
+/usr/include/c++/9/backward/auto_ptr.h:
 
 /usr/include/c++/9/condition_variable:
 
@@ -5965,6 +5832,8 @@ QtScrcpy/QtScrcpy_autogen/KH43KSYMFX/moc_config.cpp:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qsystemtrayicon.h:
 
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qabstractslider.h:
+
 /usr/include/x86_64-linux-gnu/bits/wchar.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qlistview.h:
@@ -5972,3 +5841,13 @@ QtScrcpy/QtScrcpy_autogen/KH43KSYMFX/moc_config.cpp:
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qabstractitemmodel.h:
 
 /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qitemselectionmodel.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qstyleoption.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qabstractspinbox.h:
+
+/usr/include/c++/9/bits/unique_lock.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qslider.h:
+
+/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qtabbar.h:

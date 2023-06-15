@@ -1,5 +1,5 @@
 QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o: \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/groupcontroller/groupcontroller.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/groupcontroller/groupcontroller.cpp \
  /usr/include/stdc-predef.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QPointer \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qpointer.h \
@@ -66,15 +66,12 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
- /usr/include/x86_64-linux-gnu/bits/select2.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib.h \
  /usr/include/c++/9/bits/std_abs.h /usr/include/c++/9/bits/algorithmfwd.h \
  /usr/include/c++/9/bits/stl_heap.h /usr/include/c++/9/bits/stl_tempbuf.h \
  /usr/include/c++/9/bits/stl_construct.h /usr/include/c++/9/new \
@@ -112,8 +109,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o: \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qrefcount.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
  /usr/include/string.h /usr/include/strings.h \
- /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
- /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhashfunctions.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbytearray.h \
@@ -128,8 +123,7 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
- /usr/include/x86_64-linux-gnu/bits/wchar2.h /usr/include/c++/9/cstdint \
- /usr/include/c++/9/bits/allocator.h \
+ /usr/include/c++/9/cstdint /usr/include/c++/9/bits/allocator.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
  /usr/include/c++/9/ext/new_allocator.h \
  /usr/include/c++/9/bits/localefwd.h \
@@ -163,10 +157,9 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
- /usr/include/x86_64-linux-gnu/bits/stdio.h \
- /usr/include/x86_64-linux-gnu/bits/stdio2.h /usr/include/c++/9/cerrno \
- /usr/include/errno.h /usr/include/x86_64-linux-gnu/bits/errno.h \
- /usr/include/linux/errno.h /usr/include/x86_64-linux-gnu/asm/errno.h \
+ /usr/include/c++/9/cerrno /usr/include/errno.h \
+ /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/9/bits/functional_hash.h \
@@ -229,12 +222,12 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o: \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qobject_impl.h \
  /usr/include/c++/9/chrono /usr/include/c++/9/ratio \
  /usr/include/c++/9/ctime /usr/include/c++/9/bits/parse_numbers.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/groupcontroller/groupcontroller.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/groupcontroller/groupcontroller.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QObject \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qobject.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QVector \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qvector.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/include/QtScrcpyCore.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/include/QtScrcpyCore.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/QMouseEvent \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qevent.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qtguiglobal.h \
@@ -260,10 +253,10 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/groupcontroller/groupcontroller.cpp.o: \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qfiledevice.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qvector2d.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qtouchdevice.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/include/QtScrcpyCoreDef.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/include/QtScrcpyCoreDef.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QString \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/videoform.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/videoform.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/QWidget \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qwidget.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qtwidgetsglobal.h \

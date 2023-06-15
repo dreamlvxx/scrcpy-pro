@@ -138,6 +138,7 @@ public:
         sizePolicy.setVerticalStretch(0);
         sizePolicy.setHeightForWidth(leftWidget->sizePolicy().hasHeightForWidth());
         leftWidget->setSizePolicy(sizePolicy);
+        leftWidget->setStyleSheet(QString::fromUtf8("background-color: rgb(226, 167, 148);"));
         verticalLayout_5 = new QVBoxLayout(leftWidget);
         verticalLayout_5->setSpacing(6);
         verticalLayout_5->setContentsMargins(11, 11, 11, 11);
@@ -170,6 +171,7 @@ public:
         wifiConnectBtn->setObjectName(QString::fromUtf8("wifiConnectBtn"));
         sizePolicy1.setHeightForWidth(wifiConnectBtn->sizePolicy().hasHeightForWidth());
         wifiConnectBtn->setSizePolicy(sizePolicy1);
+        wifiConnectBtn->setStyleSheet(QString::fromUtf8("color: rgb(0, 0, 0);"));
 
         horizontalLayout_9->addWidget(wifiConnectBtn);
 
@@ -286,6 +288,7 @@ public:
         rightWidget->setObjectName(QString::fromUtf8("rightWidget"));
         sizePolicy3.setHeightForWidth(rightWidget->sizePolicy().hasHeightForWidth());
         rightWidget->setSizePolicy(sizePolicy3);
+        rightWidget->setStyleSheet(QString::fromUtf8("background-color: rgb(40, 123, 88);"));
         verticalLayout_6 = new QVBoxLayout(rightWidget);
         verticalLayout_6->setSpacing(6);
         verticalLayout_6->setContentsMargins(11, 11, 11, 11);

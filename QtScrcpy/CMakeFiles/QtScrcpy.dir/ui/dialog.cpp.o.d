@@ -1,5 +1,5 @@
 QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o: \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/dialog.cpp \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/dialog.cpp \
  /usr/include/stdc-predef.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QDebug \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qdebug.h \
@@ -66,15 +66,12 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
- /usr/include/x86_64-linux-gnu/bits/select2.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib.h \
  /usr/include/c++/9/bits/std_abs.h /usr/include/c++/9/bits/algorithmfwd.h \
  /usr/include/c++/9/bits/stl_heap.h /usr/include/c++/9/bits/stl_tempbuf.h \
  /usr/include/c++/9/bits/stl_construct.h /usr/include/c++/9/new \
@@ -110,8 +107,6 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o: \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qrefcount.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qarraydata.h \
  /usr/include/string.h /usr/include/strings.h \
- /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
- /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qhashfunctions.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbytearray.h \
@@ -126,8 +121,7 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
- /usr/include/x86_64-linux-gnu/bits/wchar2.h /usr/include/c++/9/cstdint \
- /usr/include/c++/9/bits/allocator.h \
+ /usr/include/c++/9/cstdint /usr/include/c++/9/bits/allocator.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h \
  /usr/include/c++/9/ext/new_allocator.h \
  /usr/include/c++/9/bits/localefwd.h \
@@ -161,10 +155,9 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
- /usr/include/x86_64-linux-gnu/bits/stdio.h \
- /usr/include/x86_64-linux-gnu/bits/stdio2.h /usr/include/c++/9/cerrno \
- /usr/include/errno.h /usr/include/x86_64-linux-gnu/bits/errno.h \
- /usr/include/linux/errno.h /usr/include/x86_64-linux-gnu/asm/errno.h \
+ /usr/include/c++/9/cerrno /usr/include/errno.h \
+ /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/9/bits/functional_hash.h \
@@ -290,14 +283,14 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o: \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QTimer \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qtimer.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qbasictimer.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/util/config.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/config.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QObject \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qobject.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QPointer \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qpointer.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QRect \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qrect.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/dialog.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/dialog.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/QWidget \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qwidget.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/QMessageBox \
@@ -328,13 +321,13 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o: \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qtabbar.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qtabwidget.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/qrubberband.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/include/adbprocess.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/../QtScrcpyCore/include/QtScrcpyCore.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/include/adbprocess.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/../QtScrcpyCore/include/QtScrcpyCore.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/QMouseEvent \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/../QtScrcpyCore/include/QtScrcpyCoreDef.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/../QtScrcpyCore/include/QtScrcpyCoreDef.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QString \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qstring.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/audio/audiooutput.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/audio/audiooutput.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QThread \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qthread.h \
  /usr/include/c++/9/future /usr/include/c++/9/mutex \
@@ -353,7 +346,7 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o: \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qprocess.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QVector \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qvector.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpy_autogen/include/ui_dialog.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/include/ui_dialog.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/QVariant \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore/qvariant.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/QApplication \
@@ -395,5 +388,5 @@ QtScrcpy/CMakeFiles/QtScrcpy.dir/ui/dialog.cpp.o: \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui/qtextdocument.h \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/QVBoxLayout \
  /home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets/QWidget \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/videoform.h \
- /home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/ui/../groupcontroller/groupcontroller.h
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/videoform.h \
+ /data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/../groupcontroller/groupcontroller.h

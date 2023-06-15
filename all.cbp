@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="all"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\QtScrcpy\;CMake Files\QtScrcpy\res\;CMake Files\QtScrcpy\QtScrcpyCore\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\home\;CMake Files\..\..\..\..\home\lvxingxing\;CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\;CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\;CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\;CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\;CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\;CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5\;CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Widgets\;CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\;CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Core\;CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Network\;CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Multimedia\;CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5X11Extras\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/data/workspace/scrcpy-1/scrcpy-pro"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/data/workspace/scrcpy-1/scrcpy-pro"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/data/workspace/scrcpy-1/scrcpy-pro"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QtScrcpy">
+				<Option output="/data/workspace/scrcpy-1/scrcpy-pro/output/x64/Debug/QtScrcpy" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_X11EXTRAS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add option="-DQT_MULTIMEDIA_LIB"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/include"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/fontawesome"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/render"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/include"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtX11Extras"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/./mkspecs/linux-g++"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtNetwork"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtMultimedia"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/Makefile&quot;  VERBOSE=1 QtScrcpy"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QtScrcpy/fast">
+				<Option output="/data/workspace/scrcpy-1/scrcpy-pro/output/x64/Debug/QtScrcpy" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_X11EXTRAS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add option="-DQT_MULTIMEDIA_LIB"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/include"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/fontawesome"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/render"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/include"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtX11Extras"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/./mkspecs/linux-g++"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtNetwork"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtMultimedia"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/Makefile&quot;  VERBOSE=1 QtScrcpy/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QtScrcpy_autogen">
+				<Option working_dir="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/Makefile&quot;  VERBOSE=1 QtScrcpy_autogen"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QtScrcpyCore">
+				<Option output="/data/workspace/scrcpy-1/scrcpy-pro/output/x64/Debug/libQtScrcpyCore.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/include"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/include"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/adb"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/common"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/filehandler"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/android"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/receiver"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/keymap"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/server"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/demuxer"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/ui"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/recorder"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/devicemanage"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/./mkspecs/linux-g++"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtNetwork"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/Makefile&quot;  VERBOSE=1 QtScrcpyCore"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QtScrcpyCore/fast">
+				<Option output="/data/workspace/scrcpy-1/scrcpy-pro/output/x64/Debug/libQtScrcpyCore.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/include"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/include"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/adb"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/common"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/filehandler"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/android"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/receiver"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/keymap"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/server"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/demuxer"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/ui"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/recorder"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/devicemanage"/>
+					<Add directory="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/./mkspecs/linux-g++"/>
+					<Add directory="/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtNetwork"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/Makefile&quot;  VERBOSE=1 QtScrcpyCore/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QtScrcpyCore_autogen">
+				<Option working_dir="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/Makefile&quot;  VERBOSE=1 QtScrcpyCore_autogen"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/mocs_compilation.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/include/QtScrcpyCore.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/include/QtScrcpyCoreDef.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/include/adbprocess.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/adb/adbprocess.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/adb/adbprocessimpl.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/adb/adbprocessimpl.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/common/qscrcpyevent.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/android/input.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/android/keycodes.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/compat.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/bufferutil.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/bufferutil.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/controller.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/controller.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/controlmsg.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/controlmsg.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertbase.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertbase.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertgame.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertgame.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertnormal.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertnormal.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/keymap/keymap.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/keymap/keymap.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/devicemsg.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/devicemsg.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/receiver.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/receiver.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/avframeconvert.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/avframeconvert.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/decoder.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/decoder.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/fpscounter.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/fpscounter.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/videobuffer.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/decoder/videobuffer.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/demuxer/demuxer.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/demuxer/demuxer.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/device.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/device.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/filehandler/filehandler.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/filehandler/filehandler.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/recorder/recorder.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/recorder/recorder.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/server/server.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/server/server.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/server/tcpserver.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/server/tcpserver.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/server/videosocket.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/device/server/videosocket.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/devicemanage/devicemanage.cpp">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/src/devicemanage/devicemanage.h">
+			<Option target="QtScrcpyCore"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp.rule">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/include/ui/ui_dialog.h">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/include/ui/ui_toolform.h">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/include/ui/ui_videoform.h">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpy_autogen/mocs_compilation.cpp">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/audio/audiooutput.cpp">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/audio/audiooutput.h">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/fontawesome/iconhelper.cpp">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/fontawesome/iconhelper.h">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/groupcontroller/groupcontroller.cpp">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/groupcontroller/groupcontroller.h">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/main.cpp">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/render/qyuvopenglwidget.cpp">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/render/qyuvopenglwidget.h">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/res/res.qrc">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/dialog.cpp">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/dialog.h">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/dialog.ui">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/toolform.cpp">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/toolform.h">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/toolform.ui">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/videoform.cpp">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/videoform.h">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/ui/videoform.ui">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase/keepratiowidget.cpp">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase/keepratiowidget.h">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase/magneticwidget.cpp">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/uibase/magneticwidget.h">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/config.cpp">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/config.h">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/mousetap/mousetap.cpp">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/mousetap/mousetap.h">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/mousetap/xmousetap.cpp">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/util/mousetap/xmousetap.h">
+			<Option target="QtScrcpy"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\QtScrcpy\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/res/res.qrc">
+			<Option virtualFolder="CMake Files\QtScrcpy\res\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/QtScrcpy/QtScrcpyCore/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\QtScrcpy\QtScrcpyCore\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QGtk3ThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandEglPlatformIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeEglPlatformIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeGlxPlatformIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Network/Qt5Network_QConnmanEnginePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Network/Qt5Network_QNetworkManagerEnginePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Multimedia/Qt5MultimediaConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Multimedia\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Multimedia/Qt5MultimediaConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Multimedia\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Multimedia/Qt5Multimedia_CameraBinServicePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Multimedia\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Multimedia/Qt5Multimedia_QAlsaPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Multimedia\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Multimedia/Qt5Multimedia_QGstreamerAudioDecoderServicePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Multimedia\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Multimedia/Qt5Multimedia_QGstreamerCaptureServicePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Multimedia\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Multimedia/Qt5Multimedia_QGstreamerPlayerServicePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Multimedia\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Multimedia/Qt5Multimedia_QM3uPlaylistPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Multimedia\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Multimedia/Qt5Multimedia_QPulseAudioPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Multimedia\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5X11Extras/Qt5X11ExtrasConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5X11Extras\"/>
+		</Unit>
+		<Unit filename="/data/workspace/scrcpy-1/scrcpy-pro/../../../../home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5X11Extras/Qt5X11ExtrasConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\home\lvxingxing\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5X11Extras\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
