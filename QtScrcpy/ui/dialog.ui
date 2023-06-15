@@ -35,7 +35,7 @@
       </sizepolicy>
      </property>
      <property name="styleSheet">
-      <string notr="true">background-color: rgb(252, 233, 79);</string>
+      <string notr="true">background-color: rgb(233, 185, 110);</string>
      </property>
      <layout class="QVBoxLayout" name="verticalLayout_5">
       <item>
