@@ -1,0 +1,397 @@
+{
+	"BUILD_DIR" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen",
+	"CMAKE_BINARY_DIR" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore",
+	"CMAKE_EXECUTABLE" : "/home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/CMakeLists.txt",
+		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/include/QtScrcpyCore.h",
+			"MU",
+			"6YEA5652QU/moc_QtScrcpyCore.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/include/QtScrcpyCoreDef.h",
+			"MU",
+			"6YEA5652QU/moc_QtScrcpyCoreDef.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/include/adbprocess.h",
+			"MU",
+			"6YEA5652QU/moc_adbprocess.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/adb/adbprocessimpl.h",
+			"MU",
+			"QBQSNTONFS/moc_adbprocessimpl.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/common/qscrcpyevent.h",
+			"MU",
+			"2PZEZPHIBF/moc_qscrcpyevent.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/android/input.h",
+			"MU",
+			"5XQ2NA3WYH/moc_input.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/android/keycodes.h",
+			"MU",
+			"5XQ2NA3WYH/moc_keycodes.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/compat.h",
+			"MU",
+			"R27GN3UPJU/moc_compat.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/bufferutil.h",
+			"MU",
+			"VGKDREYSTA/moc_bufferutil.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/controller.h",
+			"MU",
+			"VGKDREYSTA/moc_controller.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/controlmsg.h",
+			"MU",
+			"FIT7WCBYQG/moc_controlmsg.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertbase.h",
+			"MU",
+			"FIT7WCBYQG/moc_inputconvertbase.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertgame.h",
+			"MU",
+			"FIT7WCBYQG/moc_inputconvertgame.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertnormal.h",
+			"MU",
+			"FIT7WCBYQG/moc_inputconvertnormal.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/keymap/keymap.h",
+			"MU",
+			"F2Z3URE5CP/moc_keymap.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/devicemsg.h",
+			"MU",
+			"E5IYPM23Q7/moc_devicemsg.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/receiver.h",
+			"MU",
+			"E5IYPM23Q7/moc_receiver.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/avframeconvert.h",
+			"MU",
+			"TZCQTYOKL3/moc_avframeconvert.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/decoder.h",
+			"MU",
+			"TZCQTYOKL3/moc_decoder.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/fpscounter.h",
+			"MU",
+			"TZCQTYOKL3/moc_fpscounter.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/videobuffer.h",
+			"MU",
+			"TZCQTYOKL3/moc_videobuffer.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/demuxer/demuxer.h",
+			"MU",
+			"XS5GD45QW7/moc_demuxer.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/device.h",
+			"MU",
+			"R27GN3UPJU/moc_device.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/filehandler/filehandler.h",
+			"MU",
+			"KQXXML3GD5/moc_filehandler.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/recorder/recorder.h",
+			"MU",
+			"V6TAWOZAWB/moc_recorder.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/server/server.h",
+			"MU",
+			"B4U5HBF4HE/moc_server.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/server/tcpserver.h",
+			"MU",
+			"B4U5HBF4HE/moc_tcpserver.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/server/videosocket.h",
+			"MU",
+			"B4U5HBF4HE/moc_videosocket.cpp",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/devicemanage/devicemanage.h",
+			"MU",
+			"XA5EKVFPEJ/moc_devicemanage.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore",
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/include",
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/adb",
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/common",
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device",
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/filehandler",
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/android",
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder",
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller",
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/receiver",
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert",
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/keymap",
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/server",
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/demuxer",
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/ui",
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/recorder",
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/devicemanage",
+		"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/third_party/ffmpeg/include",
+		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include",
+		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets",
+		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtGui",
+		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtCore",
+		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/mkspecs/linux-g++",
+		"/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/include/QtNetwork",
+		"/usr/include",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/g++",
+		"-dM",
+		"-E",
+		"-c",
+		"/home/lvxingxing/workspace/cmake-3.26.3-linux-x86_64/cmake-3.26.3-linux-x86_64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/QtScrcpyCore_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/home/lvxingxing/Qt5.12.8/5.12.8/gcc_64/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 12,
+	"SETTINGS_FILE" : "/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/adb/adbprocess.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/adb/adbprocessimpl.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/bufferutil.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/controller.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/controlmsg.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertbase.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertgame.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/inputconvertnormal.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/inputconvert/keymap/keymap.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/devicemsg.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/controller/receiver/receiver.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/avframeconvert.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/decoder.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/fpscounter.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/decoder/videobuffer.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/demuxer/demuxer.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/device.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/filehandler/filehandler.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/recorder/recorder.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/server/server.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/server/tcpserver.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/device/server/videosocket.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/src/devicemanage/devicemanage.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,10 @@
+/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles/edit_cache.dir
+/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/CMakeFiles/rebuild_cache.dir
+/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/CMakeFiles/QtScrcpy.dir
+/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/CMakeFiles/edit_cache.dir
+/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/CMakeFiles/rebuild_cache.dir
+/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir
+/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir
+/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/CMakeFiles/edit_cache.dir
+/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/CMakeFiles/rebuild_cache.dir
+/home/lvxingxing/workspace/qt-scrcpy/QtScrcpy/QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore_autogen.dir
